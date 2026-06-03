@@ -1,0 +1,2401 @@
+customer_id,segment,retention_priority,R_score,F_score,M_score,RFM_score
+CUST00001,Hibernating,6,2,2,1,5
+CUST00002,Potential Loyalists,2,4,2,2,8
+CUST00003,Hibernating,6,1,2,2,5
+CUST00004,At Risk,1,2,2,4,8
+CUST00005,Champions,4,4,4,4,12
+CUST00006,Loyal Customers,3,3,4,5,12
+CUST00007,Potential Loyalists,2,5,2,3,10
+CUST00008,Loyal Customers,3,3,4,5,12
+CUST00009,Potential Loyalists,2,4,2,2,8
+CUST00010,Potential Loyalists,2,5,2,2,9
+CUST00011,Potential Loyalists,2,5,2,2,9
+CUST00012,Needs Attention,5,3,2,3,8
+CUST00013,Loyal Customers,3,3,4,4,11
+CUST00014,Loyal Customers,3,3,3,4,10
+CUST00015,Loyal Customers,3,4,3,4,11
+CUST00016,Hibernating,6,1,1,1,3
+CUST00017,Hibernating,6,1,1,1,3
+CUST00018,Hibernating,6,2,2,1,5
+CUST00019,Loyal Customers,3,5,3,4,12
+CUST00020,Hibernating,6,1,1,1,3
+CUST00021,Loyal Customers,3,3,3,3,9
+CUST00022,Potential Loyalists,2,4,2,2,8
+CUST00023,Potential Loyalists,2,4,2,2,8
+CUST00024,Potential Loyalists,2,5,2,2,9
+CUST00025,Hibernating,6,1,2,2,5
+CUST00026,Loyal Customers,3,3,4,5,12
+CUST00027,Needs Attention,5,3,2,5,10
+CUST00028,Needs Attention,5,3,2,2,7
+CUST00029,Champions,4,5,4,4,13
+CUST00030,Champions,4,5,5,5,15
+CUST00031,Needs Attention,5,3,2,2,7
+CUST00032,Potential Loyalists,2,4,2,3,9
+CUST00033,Champions,4,5,4,4,13
+CUST00034,Loyal Customers,3,3,3,4,10
+CUST00035,At Risk,1,2,2,3,7
+CUST00036,Champions,4,4,4,4,12
+CUST00037,Hibernating,6,2,2,2,6
+CUST00038,Loyal Customers,3,3,4,5,12
+CUST00039,Loyal Customers,3,5,3,3,11
+CUST00040,Hibernating,6,1,2,2,5
+CUST00041,Needs Attention,5,3,2,1,6
+CUST00042,At Risk,1,2,5,5,12
+CUST00043,Potential Loyalists,2,4,2,1,7
+CUST00044,Needs Attention,5,3,2,3,8
+CUST00045,Hibernating,6,2,2,2,6
+CUST00046,Hibernating,6,2,2,2,6
+CUST00047,Hibernating,6,1,1,1,3
+CUST00048,Loyal Customers,3,3,4,5,12
+CUST00049,Potential Loyalists,2,5,2,2,9
+CUST00050,Loyal Customers,3,5,3,5,13
+CUST00051,Hibernating,6,1,1,1,3
+CUST00052,Loyal Customers,3,3,3,4,10
+CUST00053,Champions,4,4,4,5,13
+CUST00054,Potential Loyalists,2,5,2,2,9
+CUST00055,Champions,4,5,4,4,13
+CUST00056,Champions,4,5,4,5,14
+CUST00057,At Risk,1,2,2,4,8
+CUST00058,Potential Loyalists,2,4,2,2,8
+CUST00059,Loyal Customers,3,5,3,4,12
+CUST00060,Hibernating,6,2,2,1,5
+CUST00061,Champions,4,5,4,4,13
+CUST00062,Champions,4,4,4,5,13
+CUST00063,Hibernating,6,1,1,1,3
+CUST00064,Potential Loyalists,2,5,2,2,9
+CUST00065,Potential Loyalists,2,5,2,5,12
+CUST00066,Hibernating,6,1,1,1,3
+CUST00067,Loyal Customers,3,3,3,4,10
+CUST00068,Hibernating,6,1,1,1,3
+CUST00069,Loyal Customers,3,4,3,3,10
+CUST00070,Potential Loyalists,2,4,2,2,8
+CUST00071,Potential Loyalists,2,4,2,5,11
+CUST00072,At Risk,1,2,3,4,9
+CUST00073,Loyal Customers,3,5,3,3,11
+CUST00074,Potential Loyalists,2,5,2,3,10
+CUST00075,Champions,4,5,4,4,13
+CUST00076,Loyal Customers,3,5,3,4,12
+CUST00077,Hibernating,6,2,2,2,6
+CUST00078,At Risk,1,2,2,3,7
+CUST00079,Hibernating,6,1,1,1,3
+CUST00080,Needs Attention,5,3,2,4,9
+CUST00081,Champions,4,5,5,5,15
+CUST00082,Hibernating,6,1,1,1,3
+CUST00083,At Risk,1,2,3,3,8
+CUST00084,At Risk,1,1,2,4,7
+CUST00085,Potential Loyalists,2,5,2,4,11
+CUST00086,Champions,4,4,4,4,12
+CUST00087,Potential Loyalists,2,4,2,3,9
+CUST00088,At Risk,1,2,3,3,8
+CUST00089,At Risk,1,1,2,4,7
+CUST00090,Loyal Customers,3,3,4,5,12
+CUST00091,Hibernating,6,2,2,1,5
+CUST00092,Potential Loyalists,2,4,2,2,8
+CUST00093,Needs Attention,5,3,2,3,8
+CUST00094,Hibernating,6,1,1,1,3
+CUST00095,Needs Attention,5,3,2,1,6
+CUST00096,Loyal Customers,3,3,3,4,10
+CUST00097,Champions,4,5,4,5,14
+CUST00098,Hibernating,6,1,1,1,3
+CUST00099,At Risk,1,2,3,4,9
+CUST00100,Needs Attention,5,3,2,1,6
+CUST00101,At Risk,1,2,3,4,9
+CUST00102,Needs Attention,5,3,2,3,8
+CUST00103,Potential Loyalists,2,4,2,4,10
+CUST00104,At Risk,1,2,2,3,7
+CUST00105,Potential Loyalists,2,4,2,5,11
+CUST00106,Needs Attention,5,3,2,2,7
+CUST00107,Loyal Customers,3,5,3,4,12
+CUST00108,Potential Loyalists,2,4,2,3,9
+CUST00109,At Risk,1,2,3,4,9
+CUST00110,Champions,4,4,4,5,13
+CUST00111,At Risk,1,1,2,3,6
+CUST00112,Champions,4,5,4,5,14
+CUST00113,Loyal Customers,3,4,3,4,11
+CUST00114,Hibernating,6,1,1,1,3
+CUST00115,Hibernating,6,1,2,2,5
+CUST00116,Hibernating,6,2,2,2,6
+CUST00117,At Risk,1,2,3,4,9
+CUST00118,Potential Loyalists,2,4,2,3,9
+CUST00119,Needs Attention,5,3,2,5,10
+CUST00120,Potential Loyalists,2,4,2,1,7
+CUST00121,Loyal Customers,3,4,3,5,12
+CUST00122,At Risk,1,2,3,5,10
+CUST00123,At Risk,1,2,4,5,11
+CUST00124,Hibernating,6,1,1,1,3
+CUST00125,Loyal Customers,3,5,3,4,12
+CUST00126,Needs Attention,5,3,2,3,8
+CUST00127,Loyal Customers,3,4,3,3,10
+CUST00128,Loyal Customers,3,5,3,4,12
+CUST00129,Loyal Customers,3,3,4,5,12
+CUST00130,At Risk,1,2,2,4,8
+CUST00131,Needs Attention,5,3,2,5,10
+CUST00132,At Risk,1,2,2,4,8
+CUST00133,Loyal Customers,3,3,5,5,13
+CUST00134,Loyal Customers,3,4,3,4,11
+CUST00135,Hibernating,6,1,1,1,3
+CUST00136,Needs Attention,5,3,2,2,7
+CUST00137,At Risk,1,1,3,3,7
+CUST00138,Needs Attention,5,3,2,3,8
+CUST00139,Loyal Customers,3,4,3,4,11
+CUST00140,Champions,4,5,4,5,14
+CUST00141,Potential Loyalists,2,4,2,2,8
+CUST00142,Hibernating,6,1,2,1,4
+CUST00143,Champions,4,4,4,5,13
+CUST00144,At Risk,1,2,3,3,8
+CUST00145,Potential Loyalists,2,4,2,2,8
+CUST00146,At Risk,1,2,2,3,7
+CUST00147,Loyal Customers,3,3,4,5,12
+CUST00148,Champions,4,5,4,5,14
+CUST00149,Potential Loyalists,2,5,2,3,10
+CUST00150,Loyal Customers,3,4,3,3,10
+CUST00151,Loyal Customers,3,3,4,5,12
+CUST00152,Champions,4,4,4,5,13
+CUST00153,Potential Loyalists,2,5,2,3,10
+CUST00154,Champions,4,5,4,5,14
+CUST00155,Champions,4,5,4,5,14
+CUST00156,Loyal Customers,3,4,3,5,12
+CUST00157,Potential Loyalists,2,5,2,2,9
+CUST00158,At Risk,1,1,2,3,6
+CUST00159,Hibernating,6,1,1,1,3
+CUST00160,Hibernating,6,1,2,2,5
+CUST00161,Champions,4,5,4,4,13
+CUST00162,At Risk,1,2,3,4,9
+CUST00163,Needs Attention,5,3,2,1,6
+CUST00164,Hibernating,6,1,1,1,3
+CUST00165,At Risk,1,2,4,4,10
+CUST00166,Potential Loyalists,2,5,2,4,11
+CUST00167,Hibernating,6,1,1,1,3
+CUST00168,Loyal Customers,3,3,3,5,11
+CUST00169,Hibernating,6,1,1,1,3
+CUST00170,Loyal Customers,3,5,3,4,12
+CUST00171,Potential Loyalists,2,5,2,3,10
+CUST00172,Potential Loyalists,2,5,2,4,11
+CUST00173,Needs Attention,5,3,2,1,6
+CUST00174,Hibernating,6,2,2,1,5
+CUST00175,Loyal Customers,3,3,3,4,10
+CUST00176,Champions,4,4,4,5,13
+CUST00177,Needs Attention,5,3,2,1,6
+CUST00178,Loyal Customers,3,5,3,4,12
+CUST00179,Champions,4,4,4,4,12
+CUST00180,At Risk,1,2,3,4,9
+CUST00181,Potential Loyalists,2,5,2,3,10
+CUST00182,Potential Loyalists,2,4,2,1,7
+CUST00183,At Risk,1,1,2,4,7
+CUST00184,Champions,4,5,4,5,14
+CUST00185,At Risk,1,2,3,3,8
+CUST00186,Potential Loyalists,2,4,2,3,9
+CUST00187,Hibernating,6,1,2,2,5
+CUST00188,Loyal Customers,3,4,3,4,11
+CUST00189,Hibernating,6,2,2,2,6
+CUST00190,Potential Loyalists,2,5,2,2,9
+CUST00191,Potential Loyalists,2,4,2,1,7
+CUST00192,Loyal Customers,3,3,4,5,12
+CUST00193,Hibernating,6,1,2,2,5
+CUST00194,Loyal Customers,3,3,4,5,12
+CUST00195,Potential Loyalists,2,4,2,2,8
+CUST00196,Loyal Customers,3,4,3,4,11
+CUST00197,Loyal Customers,3,5,3,5,13
+CUST00198,Champions,4,4,4,5,13
+CUST00199,Champions,4,5,4,5,14
+CUST00200,Champions,4,5,4,5,14
+CUST00201,Hibernating,6,2,2,2,6
+CUST00202,At Risk,1,2,2,4,8
+CUST00203,At Risk,1,2,3,3,8
+CUST00204,Potential Loyalists,2,4,2,2,8
+CUST00205,Champions,4,4,4,4,12
+CUST00206,At Risk,1,2,3,3,8
+CUST00207,Potential Loyalists,2,5,2,1,8
+CUST00208,At Risk,1,2,4,5,11
+CUST00209,Hibernating,6,1,1,1,3
+CUST00210,Hibernating,6,2,2,2,6
+CUST00211,At Risk,1,2,3,5,10
+CUST00212,Hibernating,6,1,1,1,3
+CUST00213,At Risk,1,2,2,4,8
+CUST00214,Needs Attention,5,3,2,4,9
+CUST00215,Potential Loyalists,2,4,2,2,8
+CUST00216,Needs Attention,5,3,2,4,9
+CUST00217,Loyal Customers,3,3,3,3,9
+CUST00218,Potential Loyalists,2,4,2,3,9
+CUST00219,At Risk,1,1,3,4,8
+CUST00220,Loyal Customers,3,4,3,3,10
+CUST00221,Loyal Customers,3,5,3,3,11
+CUST00222,Hibernating,6,1,1,1,3
+CUST00223,At Risk,1,2,2,3,7
+CUST00224,At Risk,1,2,2,3,7
+CUST00225,At Risk,1,2,3,5,10
+CUST00226,Loyal Customers,3,3,4,5,12
+CUST00227,At Risk,1,1,2,3,6
+CUST00228,Loyal Customers,3,3,4,4,11
+CUST00229,Hibernating,6,2,2,2,6
+CUST00230,Champions,4,4,5,5,14
+CUST00231,Potential Loyalists,2,4,2,2,8
+CUST00232,Needs Attention,5,3,2,3,8
+CUST00233,Hibernating,6,1,1,1,3
+CUST00234,Loyal Customers,3,5,3,4,12
+CUST00235,Hibernating,6,2,2,2,6
+CUST00236,Needs Attention,5,3,2,3,8
+CUST00237,Champions,4,5,4,5,14
+CUST00238,Needs Attention,5,3,2,2,7
+CUST00239,Hibernating,6,1,1,1,3
+CUST00240,Loyal Customers,3,3,3,5,11
+CUST00241,Loyal Customers,3,5,3,5,13
+CUST00242,Loyal Customers,3,3,4,5,12
+CUST00243,Needs Attention,5,3,2,2,7
+CUST00244,At Risk,1,2,3,5,10
+CUST00245,Loyal Customers,3,3,3,4,10
+CUST00246,Loyal Customers,3,3,3,3,9
+CUST00247,Loyal Customers,3,3,3,3,9
+CUST00248,Loyal Customers,3,3,4,4,11
+CUST00249,Hibernating,6,1,2,1,4
+CUST00250,Potential Loyalists,2,4,2,3,9
+CUST00251,Potential Loyalists,2,4,2,3,9
+CUST00252,Hibernating,6,1,1,1,3
+CUST00253,Hibernating,6,1,1,1,3
+CUST00254,Hibernating,6,1,1,1,3
+CUST00255,Champions,4,4,4,5,13
+CUST00256,Hibernating,6,1,1,1,3
+CUST00257,Loyal Customers,3,3,3,3,9
+CUST00258,Champions,4,4,4,5,13
+CUST00259,Hibernating,6,1,1,1,3
+CUST00260,Loyal Customers,3,5,3,4,12
+CUST00261,Needs Attention,5,3,2,1,6
+CUST00262,Loyal Customers,3,5,3,4,12
+CUST00263,Champions,4,4,4,4,12
+CUST00264,Potential Loyalists,2,4,3,2,9
+CUST00265,Needs Attention,5,3,2,2,7
+CUST00266,At Risk,1,1,3,5,9
+CUST00267,Potential Loyalists,2,4,2,2,8
+CUST00268,Loyal Customers,3,5,3,4,12
+CUST00269,Champions,4,4,4,5,13
+CUST00270,Loyal Customers,3,3,3,3,9
+CUST00271,Loyal Customers,3,4,3,4,11
+CUST00272,Champions,4,5,5,5,15
+CUST00273,Champions,4,5,5,5,15
+CUST00274,Needs Attention,5,3,2,3,8
+CUST00275,Hibernating,6,1,1,1,3
+CUST00276,Loyal Customers,3,3,3,5,11
+CUST00277,Potential Loyalists,2,5,2,1,8
+CUST00278,Needs Attention,5,3,2,1,6
+CUST00279,Champions,4,5,4,5,14
+CUST00280,Loyal Customers,3,5,3,4,12
+CUST00281,Loyal Customers,3,4,3,3,10
+CUST00282,Hibernating,6,1,1,1,3
+CUST00283,Champions,4,5,4,5,14
+CUST00284,Hibernating,6,1,1,1,3
+CUST00285,Loyal Customers,3,5,3,3,11
+CUST00286,Hibernating,6,1,1,1,3
+CUST00287,Loyal Customers,3,3,3,5,11
+CUST00288,At Risk,1,2,3,3,8
+CUST00289,Loyal Customers,3,5,3,3,11
+CUST00290,Potential Loyalists,2,5,2,1,8
+CUST00291,Needs Attention,5,3,2,4,9
+CUST00292,Potential Loyalists,2,4,2,2,8
+CUST00293,Hibernating,6,1,1,1,3
+CUST00294,At Risk,1,2,2,4,8
+CUST00295,Potential Loyalists,2,5,2,2,9
+CUST00296,Hibernating,6,2,2,2,6
+CUST00297,At Risk,1,1,2,3,6
+CUST00298,Hibernating,6,1,1,1,3
+CUST00299,Hibernating,6,1,1,1,3
+CUST00300,Potential Loyalists,2,5,2,2,9
+CUST00301,Loyal Customers,3,5,3,4,12
+CUST00302,At Risk,1,1,3,4,8
+CUST00303,Loyal Customers,3,3,3,5,11
+CUST00304,At Risk,1,2,3,4,9
+CUST00305,Hibernating,6,1,2,2,5
+CUST00306,Champions,4,5,4,5,14
+CUST00307,Potential Loyalists,2,4,2,1,7
+CUST00308,Loyal Customers,3,3,3,4,10
+CUST00309,Potential Loyalists,2,5,2,3,10
+CUST00310,Potential Loyalists,2,4,2,2,8
+CUST00311,Needs Attention,5,3,2,4,9
+CUST00312,Needs Attention,5,3,2,2,7
+CUST00313,At Risk,1,1,2,3,6
+CUST00314,Potential Loyalists,2,5,2,2,9
+CUST00315,Champions,4,5,5,5,15
+CUST00316,At Risk,1,2,3,3,8
+CUST00317,At Risk,1,2,2,4,8
+CUST00318,Loyal Customers,3,3,3,5,11
+CUST00319,Hibernating,6,2,2,2,6
+CUST00320,Champions,4,4,4,4,12
+CUST00321,At Risk,1,2,3,3,8
+CUST00322,Champions,4,5,5,5,15
+CUST00323,Loyal Customers,3,5,3,5,13
+CUST00324,Hibernating,6,1,1,1,3
+CUST00325,Champions,4,4,4,5,13
+CUST00326,Hibernating,6,2,2,2,6
+CUST00327,Potential Loyalists,2,5,2,1,8
+CUST00328,Hibernating,6,1,1,1,3
+CUST00329,Potential Loyalists,2,5,2,1,8
+CUST00330,Loyal Customers,3,3,4,4,11
+CUST00331,Hibernating,6,1,2,2,5
+CUST00332,Loyal Customers,3,4,3,5,12
+CUST00333,Needs Attention,5,3,2,3,8
+CUST00334,Needs Attention,5,3,2,3,8
+CUST00335,At Risk,1,1,3,4,8
+CUST00336,Loyal Customers,3,4,3,3,10
+CUST00337,Loyal Customers,3,5,3,4,12
+CUST00338,Potential Loyalists,2,5,2,3,10
+CUST00339,Hibernating,6,2,2,2,6
+CUST00340,Champions,4,4,4,5,13
+CUST00341,Potential Loyalists,2,5,2,3,10
+CUST00342,Loyal Customers,3,5,3,5,13
+CUST00343,Hibernating,6,2,2,2,6
+CUST00344,Hibernating,6,1,1,1,3
+CUST00345,Champions,4,5,4,5,14
+CUST00346,Needs Attention,5,3,2,2,7
+CUST00347,Hibernating,6,1,1,1,3
+CUST00348,Champions,4,5,4,5,14
+CUST00349,Loyal Customers,3,3,4,5,12
+CUST00350,Potential Loyalists,2,4,2,2,8
+CUST00351,Champions,4,5,4,5,14
+CUST00352,Potential Loyalists,2,4,2,3,9
+CUST00353,At Risk,1,2,3,3,8
+CUST00354,Loyal Customers,3,4,3,3,10
+CUST00355,At Risk,1,1,2,3,6
+CUST00356,Champions,4,5,4,5,14
+CUST00357,Potential Loyalists,2,4,2,2,8
+CUST00358,At Risk,1,2,3,4,9
+CUST00359,Champions,4,5,4,5,14
+CUST00360,Potential Loyalists,2,5,2,4,11
+CUST00361,Hibernating,6,1,2,1,4
+CUST00362,Champions,4,4,4,4,12
+CUST00363,Potential Loyalists,2,4,2,2,8
+CUST00364,Hibernating,6,1,1,1,3
+CUST00365,At Risk,1,1,2,3,6
+CUST00366,At Risk,1,2,3,5,10
+CUST00367,Hibernating,6,1,1,1,3
+CUST00368,Needs Attention,5,3,2,1,6
+CUST00369,Needs Attention,5,3,2,3,8
+CUST00370,Hibernating,6,1,2,2,5
+CUST00371,At Risk,1,2,2,3,7
+CUST00372,Needs Attention,5,3,2,2,7
+CUST00373,Loyal Customers,3,3,3,4,10
+CUST00374,Hibernating,6,1,1,1,3
+CUST00375,Loyal Customers,3,3,3,3,9
+CUST00376,Loyal Customers,3,4,3,4,11
+CUST00377,Loyal Customers,3,3,4,4,11
+CUST00378,At Risk,1,2,2,4,8
+CUST00379,Needs Attention,5,3,2,2,7
+CUST00380,Champions,4,4,4,4,12
+CUST00381,Hibernating,6,1,1,1,3
+CUST00382,Loyal Customers,3,4,3,3,10
+CUST00383,Champions,4,5,5,5,15
+CUST00384,Potential Loyalists,2,4,2,2,8
+CUST00385,Loyal Customers,3,3,4,4,11
+CUST00386,Loyal Customers,3,5,3,4,12
+CUST00387,Potential Loyalists,2,4,2,3,9
+CUST00388,Potential Loyalists,2,4,2,2,8
+CUST00389,Champions,4,5,5,5,15
+CUST00390,Loyal Customers,3,3,3,4,10
+CUST00391,Loyal Customers,3,5,3,5,13
+CUST00392,At Risk,1,2,2,3,7
+CUST00393,Loyal Customers,3,5,3,5,13
+CUST00394,Potential Loyalists,2,5,2,2,9
+CUST00395,Potential Loyalists,2,4,2,2,8
+CUST00396,Champions,4,5,5,5,15
+CUST00397,Needs Attention,5,3,2,4,9
+CUST00398,Champions,4,5,4,5,14
+CUST00399,Hibernating,6,1,1,1,3
+CUST00400,Potential Loyalists,2,4,2,2,8
+CUST00401,Needs Attention,5,3,2,2,7
+CUST00402,Hibernating,6,2,2,1,5
+CUST00403,Loyal Customers,3,4,3,5,12
+CUST00404,Hibernating,6,1,1,1,3
+CUST00405,Potential Loyalists,2,5,2,1,8
+CUST00406,Loyal Customers,3,5,4,3,12
+CUST00407,Potential Loyalists,2,5,2,4,11
+CUST00408,Potential Loyalists,2,4,2,3,9
+CUST00409,Loyal Customers,3,3,4,4,11
+CUST00410,Loyal Customers,3,5,3,4,12
+CUST00411,Hibernating,6,1,1,1,3
+CUST00412,Hibernating,6,1,1,1,3
+CUST00413,Potential Loyalists,2,4,2,1,7
+CUST00414,Potential Loyalists,2,5,2,1,8
+CUST00415,At Risk,1,2,2,4,8
+CUST00416,Loyal Customers,3,4,3,3,10
+CUST00417,Hibernating,6,1,2,2,5
+CUST00418,Loyal Customers,3,5,3,5,13
+CUST00419,At Risk,1,2,3,4,9
+CUST00420,Potential Loyalists,2,5,2,4,11
+CUST00421,Potential Loyalists,2,5,2,4,11
+CUST00422,Hibernating,6,2,2,2,6
+CUST00423,At Risk,1,2,3,5,10
+CUST00424,Hibernating,6,2,2,2,6
+CUST00425,At Risk,1,2,3,4,9
+CUST00426,Needs Attention,5,3,2,3,8
+CUST00427,Potential Loyalists,2,5,3,1,9
+CUST00428,Loyal Customers,3,3,3,3,9
+CUST00429,Potential Loyalists,2,5,2,2,9
+CUST00430,Champions,4,4,4,5,13
+CUST00431,At Risk,1,1,3,3,7
+CUST00432,At Risk,1,2,3,5,10
+CUST00433,Loyal Customers,3,4,3,3,10
+CUST00434,Hibernating,6,1,1,1,3
+CUST00435,Hibernating,6,1,1,1,3
+CUST00436,Loyal Customers,3,3,4,5,12
+CUST00437,At Risk,1,1,2,3,6
+CUST00438,Loyal Customers,3,3,4,5,12
+CUST00439,Hibernating,6,2,2,2,6
+CUST00440,Needs Attention,5,3,2,1,6
+CUST00441,Hibernating,6,1,1,1,3
+CUST00442,Loyal Customers,3,3,4,3,10
+CUST00443,Hibernating,6,1,1,1,3
+CUST00444,Hibernating,6,1,1,1,3
+CUST00445,Potential Loyalists,2,4,2,4,10
+CUST00446,Potential Loyalists,2,4,2,2,8
+CUST00447,Champions,4,4,5,5,14
+CUST00448,Hibernating,6,2,2,2,6
+CUST00449,Hibernating,6,1,1,1,3
+CUST00450,Potential Loyalists,2,4,2,3,9
+CUST00451,Loyal Customers,3,4,3,5,12
+CUST00452,Hibernating,6,1,1,1,3
+CUST00453,Champions,4,5,4,5,14
+CUST00454,Champions,4,5,4,4,13
+CUST00455,Hibernating,6,1,1,1,3
+CUST00456,At Risk,1,2,2,3,7
+CUST00457,Hibernating,6,1,1,1,3
+CUST00458,Loyal Customers,3,5,3,4,12
+CUST00459,Hibernating,6,1,1,1,3
+CUST00460,Champions,4,5,5,5,15
+CUST00461,Hibernating,6,1,1,1,3
+CUST00462,Potential Loyalists,2,4,2,3,9
+CUST00463,Champions,4,4,4,5,13
+CUST00464,At Risk,1,2,4,4,10
+CUST00465,At Risk,1,1,2,4,7
+CUST00466,Champions,4,4,5,5,14
+CUST00467,Potential Loyalists,2,5,2,2,9
+CUST00468,Hibernating,6,1,1,1,3
+CUST00469,Champions,4,5,4,4,13
+CUST00470,Hibernating,6,1,2,1,4
+CUST00471,Hibernating,6,2,2,1,5
+CUST00472,At Risk,1,2,2,4,8
+CUST00473,At Risk,1,2,3,4,9
+CUST00474,Champions,4,4,4,4,12
+CUST00475,Loyal Customers,3,4,3,3,10
+CUST00476,Hibernating,6,2,2,1,5
+CUST00477,Loyal Customers,3,3,3,4,10
+CUST00478,Loyal Customers,3,4,3,3,10
+CUST00479,Hibernating,6,1,1,1,3
+CUST00480,Hibernating,6,1,2,2,5
+CUST00481,Loyal Customers,3,4,3,3,10
+CUST00482,Potential Loyalists,2,4,2,3,9
+CUST00483,At Risk,1,2,3,4,9
+CUST00484,Loyal Customers,3,3,3,4,10
+CUST00485,Hibernating,6,1,1,1,3
+CUST00486,Potential Loyalists,2,4,2,3,9
+CUST00487,Potential Loyalists,2,4,2,2,8
+CUST00488,Hibernating,6,1,1,1,3
+CUST00489,Hibernating,6,1,1,1,3
+CUST00490,Potential Loyalists,2,5,2,2,9
+CUST00491,Hibernating,6,2,2,2,6
+CUST00492,Needs Attention,5,3,2,2,7
+CUST00493,At Risk,1,2,3,4,9
+CUST00494,Potential Loyalists,2,5,2,2,9
+CUST00495,Loyal Customers,3,4,3,5,12
+CUST00496,Potential Loyalists,2,4,2,4,10
+CUST00497,At Risk,1,1,2,4,7
+CUST00498,Loyal Customers,3,4,3,3,10
+CUST00499,Potential Loyalists,2,5,2,4,11
+CUST00500,Loyal Customers,3,4,3,5,12
+CUST00501,Champions,4,5,4,5,14
+CUST00502,Loyal Customers,3,5,3,4,12
+CUST00503,Loyal Customers,3,3,4,5,12
+CUST00504,Potential Loyalists,2,5,2,4,11
+CUST00505,At Risk,1,2,2,3,7
+CUST00506,Champions,4,4,4,5,13
+CUST00507,At Risk,1,2,2,5,9
+CUST00508,At Risk,1,1,2,3,6
+CUST00509,Potential Loyalists,2,4,2,3,9
+CUST00510,Hibernating,6,1,2,2,5
+CUST00511,Loyal Customers,3,5,3,4,12
+CUST00512,Champions,4,5,4,5,14
+CUST00513,Champions,4,4,4,5,13
+CUST00514,At Risk,1,2,2,4,8
+CUST00515,Loyal Customers,3,5,3,4,12
+CUST00516,Potential Loyalists,2,4,2,2,8
+CUST00517,Needs Attention,5,3,2,2,7
+CUST00518,Potential Loyalists,2,4,2,1,7
+CUST00519,Needs Attention,5,3,2,2,7
+CUST00520,Potential Loyalists,2,5,2,2,9
+CUST00521,Champions,4,4,5,5,14
+CUST00522,Hibernating,6,1,1,1,3
+CUST00523,Potential Loyalists,2,4,2,3,9
+CUST00524,Potential Loyalists,2,5,2,4,11
+CUST00525,Hibernating,6,1,1,1,3
+CUST00526,Potential Loyalists,2,5,2,3,10
+CUST00527,At Risk,1,2,2,5,9
+CUST00528,Potential Loyalists,2,5,2,2,9
+CUST00529,Needs Attention,5,3,2,3,8
+CUST00530,Loyal Customers,3,3,3,4,10
+CUST00531,Potential Loyalists,2,4,3,2,9
+CUST00532,At Risk,1,2,2,3,7
+CUST00533,Potential Loyalists,2,5,2,1,8
+CUST00534,Loyal Customers,3,3,3,3,9
+CUST00535,Hibernating,6,2,2,1,5
+CUST00536,Loyal Customers,3,3,4,5,12
+CUST00537,Potential Loyalists,2,5,2,2,9
+CUST00538,Loyal Customers,3,3,3,4,10
+CUST00539,Loyal Customers,3,3,4,5,12
+CUST00540,Loyal Customers,3,3,3,3,9
+CUST00541,At Risk,1,2,4,5,11
+CUST00542,Needs Attention,5,3,2,2,7
+CUST00543,Hibernating,6,1,1,1,3
+CUST00544,Needs Attention,5,3,2,3,8
+CUST00545,Potential Loyalists,2,5,2,2,9
+CUST00546,Loyal Customers,3,5,3,5,13
+CUST00547,Potential Loyalists,2,4,2,3,9
+CUST00548,At Risk,1,1,2,3,6
+CUST00549,At Risk,1,2,3,3,8
+CUST00550,Potential Loyalists,2,5,2,2,9
+CUST00551,Potential Loyalists,2,4,2,2,8
+CUST00552,Potential Loyalists,2,5,2,2,9
+CUST00553,Hibernating,6,1,1,1,3
+CUST00554,Loyal Customers,3,5,3,3,11
+CUST00555,Loyal Customers,3,4,3,3,10
+CUST00556,Potential Loyalists,2,4,2,3,9
+CUST00557,Loyal Customers,3,5,3,3,11
+CUST00558,Hibernating,6,1,1,1,3
+CUST00559,Potential Loyalists,2,5,2,2,9
+CUST00560,Hibernating,6,1,1,1,3
+CUST00561,Potential Loyalists,2,5,2,1,8
+CUST00562,Hibernating,6,1,1,1,3
+CUST00563,Hibernating,6,2,2,2,6
+CUST00564,Hibernating,6,2,2,2,6
+CUST00565,Potential Loyalists,2,4,2,1,7
+CUST00566,Potential Loyalists,2,4,2,2,8
+CUST00567,Loyal Customers,3,5,3,4,12
+CUST00568,Potential Loyalists,2,4,2,2,8
+CUST00569,Hibernating,6,2,2,2,6
+CUST00570,At Risk,1,1,2,3,6
+CUST00571,Potential Loyalists,2,4,2,2,8
+CUST00572,Loyal Customers,3,3,4,5,12
+CUST00573,At Risk,1,2,4,4,10
+CUST00574,Champions,4,5,5,5,15
+CUST00575,Needs Attention,5,3,2,2,7
+CUST00576,Potential Loyalists,2,4,2,2,8
+CUST00577,Loyal Customers,3,3,3,3,9
+CUST00578,Hibernating,6,1,1,1,3
+CUST00579,Potential Loyalists,2,5,2,1,8
+CUST00580,Needs Attention,5,3,2,3,8
+CUST00581,Loyal Customers,3,3,3,4,10
+CUST00582,Hibernating,6,1,1,1,3
+CUST00583,Hibernating,6,1,1,1,3
+CUST00584,Needs Attention,5,3,2,2,7
+CUST00585,At Risk,1,2,3,3,8
+CUST00586,Hibernating,6,2,2,1,5
+CUST00587,Potential Loyalists,2,5,2,1,8
+CUST00588,Needs Attention,5,3,2,2,7
+CUST00589,Needs Attention,5,3,2,2,7
+CUST00590,Hibernating,6,2,2,2,6
+CUST00591,Needs Attention,5,3,2,3,8
+CUST00592,Potential Loyalists,2,5,2,2,9
+CUST00593,Champions,4,4,4,5,13
+CUST00594,Hibernating,6,2,2,2,6
+CUST00595,Champions,4,5,4,4,13
+CUST00596,Needs Attention,5,3,2,2,7
+CUST00597,Needs Attention,5,3,2,4,9
+CUST00598,Potential Loyalists,2,5,2,2,9
+CUST00599,At Risk,1,1,3,5,9
+CUST00600,Hibernating,6,1,1,1,3
+CUST00601,Needs Attention,5,3,2,2,7
+CUST00602,Hibernating,6,2,2,1,5
+CUST00603,Champions,4,5,5,5,15
+CUST00604,At Risk,1,2,2,3,7
+CUST00605,At Risk,1,1,3,3,7
+CUST00606,Hibernating,6,2,2,1,5
+CUST00607,Hibernating,6,1,1,1,3
+CUST00608,Loyal Customers,3,4,3,4,11
+CUST00609,Champions,4,5,5,5,15
+CUST00610,Champions,4,4,4,5,13
+CUST00611,Hibernating,6,1,1,1,3
+CUST00612,Loyal Customers,3,3,3,5,11
+CUST00613,Champions,4,5,4,5,14
+CUST00614,Hibernating,6,1,1,1,3
+CUST00615,Potential Loyalists,2,4,2,2,8
+CUST00616,Loyal Customers,3,4,3,3,10
+CUST00617,Champions,4,5,5,5,15
+CUST00618,At Risk,1,2,3,4,9
+CUST00619,Loyal Customers,3,5,3,3,11
+CUST00620,Hibernating,6,2,2,2,6
+CUST00621,Hibernating,6,2,2,1,5
+CUST00622,At Risk,1,1,2,4,7
+CUST00623,At Risk,1,2,4,5,11
+CUST00624,Hibernating,6,1,1,1,3
+CUST00625,Loyal Customers,3,3,4,4,11
+CUST00626,Loyal Customers,3,5,3,4,12
+CUST00627,Needs Attention,5,3,2,2,7
+CUST00628,Needs Attention,5,3,2,1,6
+CUST00629,Potential Loyalists,2,4,2,2,8
+CUST00630,At Risk,1,2,3,5,10
+CUST00631,Loyal Customers,3,3,4,4,11
+CUST00632,Needs Attention,5,3,2,3,8
+CUST00633,Potential Loyalists,2,4,2,4,10
+CUST00634,At Risk,1,2,3,3,8
+CUST00635,At Risk,1,2,2,3,7
+CUST00636,Loyal Customers,3,3,3,5,11
+CUST00637,Needs Attention,5,3,2,3,8
+CUST00638,Hibernating,6,1,2,1,4
+CUST00639,Hibernating,6,1,1,1,3
+CUST00640,Hibernating,6,2,2,2,6
+CUST00641,Champions,4,4,4,4,12
+CUST00642,Champions,4,5,4,4,13
+CUST00643,At Risk,1,1,2,3,6
+CUST00644,Loyal Customers,3,3,3,3,9
+CUST00645,Hibernating,6,1,1,1,3
+CUST00646,Hibernating,6,2,2,2,6
+CUST00647,Needs Attention,5,3,2,2,7
+CUST00648,Potential Loyalists,2,4,2,4,10
+CUST00649,Hibernating,6,2,2,1,5
+CUST00650,Loyal Customers,3,3,3,5,11
+CUST00651,Loyal Customers,3,4,3,5,12
+CUST00652,Loyal Customers,3,3,3,5,11
+CUST00653,Loyal Customers,3,4,3,5,12
+CUST00654,Champions,4,5,4,5,14
+CUST00655,Needs Attention,5,3,2,2,7
+CUST00656,Loyal Customers,3,3,3,4,10
+CUST00657,Needs Attention,5,3,3,2,8
+CUST00658,Hibernating,6,1,1,1,3
+CUST00659,Potential Loyalists,2,5,2,3,10
+CUST00660,Potential Loyalists,2,4,2,2,8
+CUST00661,Hibernating,6,1,2,2,5
+CUST00662,At Risk,1,2,2,3,7
+CUST00663,Loyal Customers,3,3,4,4,11
+CUST00664,Potential Loyalists,2,5,2,1,8
+CUST00665,Champions,4,4,4,5,13
+CUST00666,Potential Loyalists,2,5,2,2,9
+CUST00667,Loyal Customers,3,4,3,4,11
+CUST00668,Loyal Customers,3,4,3,3,10
+CUST00669,Loyal Customers,3,3,4,5,12
+CUST00670,Hibernating,6,1,1,1,3
+CUST00671,Champions,4,5,4,5,14
+CUST00672,Hibernating,6,2,2,2,6
+CUST00673,At Risk,1,2,2,4,8
+CUST00674,Loyal Customers,3,3,5,5,13
+CUST00675,At Risk,1,2,3,5,10
+CUST00676,Potential Loyalists,2,5,2,3,10
+CUST00677,Potential Loyalists,2,5,2,1,8
+CUST00678,Hibernating,6,1,1,1,3
+CUST00679,Loyal Customers,3,3,4,5,12
+CUST00680,Hibernating,6,1,1,1,3
+CUST00681,Hibernating,6,1,1,1,3
+CUST00682,Potential Loyalists,2,5,2,4,11
+CUST00683,Champions,4,5,4,5,14
+CUST00684,Hibernating,6,2,2,2,6
+CUST00685,Potential Loyalists,2,5,2,3,10
+CUST00686,Hibernating,6,2,2,1,5
+CUST00687,At Risk,1,2,4,5,11
+CUST00688,Champions,4,5,4,5,14
+CUST00689,Loyal Customers,3,3,4,5,12
+CUST00690,Champions,4,5,4,5,14
+CUST00691,Loyal Customers,3,3,3,4,10
+CUST00692,Needs Attention,5,3,2,1,6
+CUST00693,At Risk,1,2,2,3,7
+CUST00694,Needs Attention,5,3,2,1,6
+CUST00695,Hibernating,6,1,1,1,3
+CUST00696,Loyal Customers,3,4,3,3,10
+CUST00697,Hibernating,6,1,1,1,3
+CUST00698,Champions,4,5,4,5,14
+CUST00699,Loyal Customers,3,3,4,5,12
+CUST00700,Needs Attention,5,3,2,1,6
+CUST00701,At Risk,1,2,2,3,7
+CUST00702,Needs Attention,5,3,2,1,6
+CUST00703,Hibernating,6,2,2,1,5
+CUST00704,Loyal Customers,3,4,3,3,10
+CUST00705,Potential Loyalists,2,5,2,3,10
+CUST00706,Potential Loyalists,2,5,2,2,9
+CUST00707,Hibernating,6,1,1,1,3
+CUST00708,Champions,4,4,4,5,13
+CUST00709,At Risk,1,2,2,5,9
+CUST00710,Champions,4,5,4,5,14
+CUST00711,Champions,4,5,5,5,15
+CUST00712,Potential Loyalists,2,5,2,2,9
+CUST00713,Champions,4,5,4,5,14
+CUST00714,Loyal Customers,3,4,4,3,11
+CUST00715,Loyal Customers,3,4,4,3,11
+CUST00716,Champions,4,5,4,4,13
+CUST00717,Potential Loyalists,2,5,2,3,10
+CUST00718,Hibernating,6,2,2,1,5
+CUST00719,Hibernating,6,1,2,2,5
+CUST00720,Hibernating,6,1,1,1,3
+CUST00721,Potential Loyalists,2,5,2,4,11
+CUST00722,Potential Loyalists,2,4,2,1,7
+CUST00723,Needs Attention,5,3,2,2,7
+CUST00724,Loyal Customers,3,5,3,3,11
+CUST00725,At Risk,1,2,3,3,8
+CUST00726,At Risk,1,2,4,5,11
+CUST00727,Champions,4,5,4,5,14
+CUST00728,Needs Attention,5,3,2,2,7
+CUST00729,At Risk,1,2,2,4,8
+CUST00730,Hibernating,6,1,1,1,3
+CUST00731,Hibernating,6,2,2,2,6
+CUST00732,Potential Loyalists,2,5,2,2,9
+CUST00733,Needs Attention,5,3,2,2,7
+CUST00734,At Risk,1,2,3,5,10
+CUST00735,Loyal Customers,3,5,3,4,12
+CUST00736,Loyal Customers,3,3,4,4,11
+CUST00737,Potential Loyalists,2,4,2,3,9
+CUST00738,Needs Attention,5,3,2,2,7
+CUST00739,Potential Loyalists,2,4,2,3,9
+CUST00740,Hibernating,6,1,1,1,3
+CUST00741,Hibernating,6,1,1,1,3
+CUST00742,Needs Attention,5,3,2,2,7
+CUST00743,Potential Loyalists,2,5,2,3,10
+CUST00744,Loyal Customers,3,3,3,3,9
+CUST00745,Potential Loyalists,2,5,2,3,10
+CUST00746,Hibernating,6,1,2,1,4
+CUST00747,Potential Loyalists,2,5,2,3,10
+CUST00748,Loyal Customers,3,3,4,5,12
+CUST00749,Potential Loyalists,2,5,2,3,10
+CUST00750,Loyal Customers,3,3,3,3,9
+CUST00751,Potential Loyalists,2,5,2,2,9
+CUST00752,At Risk,1,2,3,4,9
+CUST00753,At Risk,1,2,2,3,7
+CUST00754,Loyal Customers,3,4,3,5,12
+CUST00755,Hibernating,6,1,1,1,3
+CUST00756,Hibernating,6,2,2,1,5
+CUST00757,Potential Loyalists,2,5,2,2,9
+CUST00758,Loyal Customers,3,3,4,3,10
+CUST00759,Loyal Customers,3,4,3,4,11
+CUST00760,Hibernating,6,1,2,1,4
+CUST00761,Hibernating,6,1,1,1,3
+CUST00762,Loyal Customers,3,4,3,5,12
+CUST00763,Hibernating,6,1,1,1,3
+CUST00764,Loyal Customers,3,4,3,4,11
+CUST00765,At Risk,1,2,3,5,10
+CUST00766,Hibernating,6,1,2,2,5
+CUST00767,Needs Attention,5,3,2,2,7
+CUST00768,Loyal Customers,3,4,3,4,11
+CUST00769,Loyal Customers,3,5,3,3,11
+CUST00770,Champions,4,4,4,5,13
+CUST00771,Hibernating,6,2,2,2,6
+CUST00772,Hibernating,6,1,1,1,3
+CUST00773,Needs Attention,5,3,2,2,7
+CUST00774,Hibernating,6,2,2,1,5
+CUST00775,Potential Loyalists,2,4,2,4,10
+CUST00776,Hibernating,6,2,2,2,6
+CUST00777,Potential Loyalists,2,5,2,3,10
+CUST00778,Hibernating,6,1,1,1,3
+CUST00779,Potential Loyalists,2,5,2,2,9
+CUST00780,Champions,4,4,4,5,13
+CUST00781,Needs Attention,5,3,2,2,7
+CUST00782,Hibernating,6,1,1,1,3
+CUST00783,Hibernating,6,1,1,1,3
+CUST00784,Loyal Customers,3,4,3,4,11
+CUST00785,Champions,4,5,4,4,13
+CUST00786,At Risk,1,1,2,3,6
+CUST00787,Loyal Customers,3,3,4,5,12
+CUST00788,Needs Attention,5,3,2,4,9
+CUST00789,Needs Attention,5,3,2,3,8
+CUST00790,Needs Attention,5,3,2,2,7
+CUST00791,Hibernating,6,1,1,1,3
+CUST00792,At Risk,1,1,2,4,7
+CUST00793,At Risk,1,2,2,4,8
+CUST00794,Hibernating,6,1,2,2,5
+CUST00795,At Risk,1,2,3,5,10
+CUST00796,At Risk,1,1,2,4,7
+CUST00797,Potential Loyalists,2,5,2,2,9
+CUST00798,Loyal Customers,3,3,3,4,10
+CUST00799,Loyal Customers,3,3,3,3,9
+CUST00800,Champions,4,5,5,5,15
+CUST00801,Loyal Customers,3,3,3,4,10
+CUST00802,Hibernating,6,1,1,1,3
+CUST00803,Loyal Customers,3,3,3,5,11
+CUST00804,Potential Loyalists,2,5,2,3,10
+CUST00805,Potential Loyalists,2,4,2,3,9
+CUST00806,Potential Loyalists,2,4,2,3,9
+CUST00807,Hibernating,6,2,2,2,6
+CUST00808,Needs Attention,5,3,2,2,7
+CUST00809,Champions,4,4,4,4,12
+CUST00810,Hibernating,6,1,1,1,3
+CUST00811,Hibernating,6,1,1,1,3
+CUST00812,Hibernating,6,1,1,1,3
+CUST00813,Champions,4,5,4,5,14
+CUST00814,At Risk,1,2,3,5,10
+CUST00815,At Risk,1,2,3,5,10
+CUST00816,Loyal Customers,3,3,3,5,11
+CUST00817,Champions,4,5,5,5,15
+CUST00818,At Risk,1,2,2,3,7
+CUST00819,Champions,4,4,4,5,13
+CUST00820,Hibernating,6,1,1,1,3
+CUST00821,Hibernating,6,2,2,2,6
+CUST00822,Loyal Customers,3,3,4,4,11
+CUST00823,At Risk,1,2,3,2,7
+CUST00824,Potential Loyalists,2,5,2,2,9
+CUST00825,Hibernating,6,2,2,2,6
+CUST00826,At Risk,1,1,3,5,9
+CUST00827,Needs Attention,5,3,2,4,9
+CUST00828,Hibernating,6,2,2,1,5
+CUST00829,Loyal Customers,3,3,4,5,12
+CUST00830,Loyal Customers,3,5,3,3,11
+CUST00831,Loyal Customers,3,5,3,3,11
+CUST00832,Potential Loyalists,2,5,2,3,10
+CUST00833,Needs Attention,5,3,2,3,8
+CUST00834,Potential Loyalists,2,5,2,3,10
+CUST00835,At Risk,1,1,4,4,9
+CUST00836,Loyal Customers,3,5,3,4,12
+CUST00837,Loyal Customers,3,5,3,4,12
+CUST00838,Potential Loyalists,2,5,2,2,9
+CUST00839,At Risk,1,1,3,3,7
+CUST00840,Loyal Customers,3,3,4,5,12
+CUST00841,At Risk,1,2,5,5,12
+CUST00842,Loyal Customers,3,3,3,4,10
+CUST00843,Potential Loyalists,2,4,2,3,9
+CUST00844,Potential Loyalists,2,5,2,2,9
+CUST00845,At Risk,1,2,2,3,7
+CUST00846,Champions,4,4,4,4,12
+CUST00847,Potential Loyalists,2,5,2,4,11
+CUST00848,Potential Loyalists,2,5,2,2,9
+CUST00849,Champions,4,5,4,5,14
+CUST00850,Loyal Customers,3,5,3,5,13
+CUST00851,Potential Loyalists,2,5,2,3,10
+CUST00852,Loyal Customers,3,3,3,3,9
+CUST00853,Needs Attention,5,3,2,1,6
+CUST00854,Hibernating,6,1,1,1,3
+CUST00855,Hibernating,6,1,1,1,3
+CUST00856,At Risk,1,2,2,5,9
+CUST00857,Loyal Customers,3,3,3,4,10
+CUST00858,At Risk,1,2,3,4,9
+CUST00859,At Risk,1,1,2,3,6
+CUST00860,Needs Attention,5,3,2,4,9
+CUST00861,At Risk,1,1,2,3,6
+CUST00862,Hibernating,6,1,1,1,3
+CUST00863,Loyal Customers,3,4,3,4,11
+CUST00864,Hibernating,6,2,2,1,5
+CUST00865,Loyal Customers,3,3,3,4,10
+CUST00866,Potential Loyalists,2,4,2,4,10
+CUST00867,Potential Loyalists,2,5,2,2,9
+CUST00868,Potential Loyalists,2,5,2,3,10
+CUST00869,At Risk,1,2,4,4,10
+CUST00870,At Risk,1,2,4,5,11
+CUST00871,At Risk,1,2,4,4,10
+CUST00872,At Risk,1,2,2,3,7
+CUST00873,Loyal Customers,3,5,3,5,13
+CUST00874,Potential Loyalists,2,4,2,2,8
+CUST00875,Potential Loyalists,2,4,2,1,7
+CUST00876,Loyal Customers,3,4,3,3,10
+CUST00877,Loyal Customers,3,3,3,3,9
+CUST00878,At Risk,1,2,3,5,10
+CUST00879,At Risk,1,1,3,5,9
+CUST00880,Champions,4,5,4,4,13
+CUST00881,Potential Loyalists,2,5,2,4,11
+CUST00882,Loyal Customers,3,3,3,3,9
+CUST00883,At Risk,1,2,3,5,10
+CUST00884,Hibernating,6,1,1,1,3
+CUST00885,Loyal Customers,3,4,3,4,11
+CUST00886,Potential Loyalists,2,5,2,1,8
+CUST00887,Potential Loyalists,2,5,2,4,11
+CUST00888,At Risk,1,2,2,4,8
+CUST00889,Loyal Customers,3,4,3,4,11
+CUST00890,Potential Loyalists,2,4,2,2,8
+CUST00891,Loyal Customers,3,5,3,4,12
+CUST00892,Potential Loyalists,2,5,2,1,8
+CUST00893,Hibernating,6,2,2,2,6
+CUST00894,Loyal Customers,3,4,3,5,12
+CUST00895,Needs Attention,5,3,2,1,6
+CUST00896,Champions,4,5,5,5,15
+CUST00897,Potential Loyalists,2,5,2,2,9
+CUST00898,Hibernating,6,1,1,1,3
+CUST00899,Hibernating,6,1,1,1,3
+CUST00900,Loyal Customers,3,3,3,4,10
+CUST00901,Champions,4,4,4,4,12
+CUST00902,Potential Loyalists,2,5,2,4,11
+CUST00903,Potential Loyalists,2,4,2,2,8
+CUST00904,Champions,4,4,4,5,13
+CUST00905,Loyal Customers,3,4,3,5,12
+CUST00906,Loyal Customers,3,4,3,4,11
+CUST00907,Hibernating,6,1,1,1,3
+CUST00908,Loyal Customers,3,4,3,5,12
+CUST00909,Hibernating,6,1,1,1,3
+CUST00910,At Risk,1,2,2,4,8
+CUST00911,Champions,4,4,4,5,13
+CUST00912,At Risk,1,2,2,4,8
+CUST00913,Hibernating,6,1,1,1,3
+CUST00914,Loyal Customers,3,4,3,3,10
+CUST00915,Hibernating,6,2,2,2,6
+CUST00916,Loyal Customers,3,5,3,4,12
+CUST00917,Hibernating,6,1,1,1,3
+CUST00918,Hibernating,6,1,1,1,3
+CUST00919,Loyal Customers,3,5,3,5,13
+CUST00920,Needs Attention,5,3,2,3,8
+CUST00921,Hibernating,6,1,1,1,3
+CUST00922,Potential Loyalists,2,5,2,3,10
+CUST00923,Loyal Customers,3,3,3,4,10
+CUST00924,Potential Loyalists,2,4,2,4,10
+CUST00925,Potential Loyalists,2,4,2,2,8
+CUST00926,Champions,4,5,4,4,13
+CUST00927,Hibernating,6,1,1,1,3
+CUST00928,Hibernating,6,1,1,1,3
+CUST00929,Potential Loyalists,2,4,2,1,7
+CUST00930,Loyal Customers,3,3,4,5,12
+CUST00931,Potential Loyalists,2,4,2,3,9
+CUST00932,Needs Attention,5,3,2,2,7
+CUST00933,Hibernating,6,1,1,1,3
+CUST00934,Potential Loyalists,2,4,2,2,8
+CUST00935,Champions,4,4,5,5,14
+CUST00936,Potential Loyalists,2,4,2,4,10
+CUST00937,At Risk,1,2,3,3,8
+CUST00938,Potential Loyalists,2,4,2,4,10
+CUST00939,Potential Loyalists,2,5,2,2,9
+CUST00940,Hibernating,6,1,1,1,3
+CUST00941,Hibernating,6,1,1,1,3
+CUST00942,Potential Loyalists,2,5,2,2,9
+CUST00943,Hibernating,6,1,1,1,3
+CUST00944,Needs Attention,5,3,2,2,7
+CUST00945,Potential Loyalists,2,5,2,3,10
+CUST00946,Hibernating,6,1,2,2,5
+CUST00947,Champions,4,4,4,4,12
+CUST00948,Needs Attention,5,3,2,3,8
+CUST00949,Hibernating,6,2,2,2,6
+CUST00950,Hibernating,6,1,1,1,3
+CUST00951,Needs Attention,5,3,2,2,7
+CUST00952,Champions,4,4,4,5,13
+CUST00953,Champions,4,5,4,5,14
+CUST00954,Loyal Customers,3,4,3,3,10
+CUST00955,Loyal Customers,3,3,3,3,9
+CUST00956,Loyal Customers,3,4,3,5,12
+CUST00957,Loyal Customers,3,4,3,3,10
+CUST00958,At Risk,1,1,3,3,7
+CUST00959,Needs Attention,5,3,3,2,8
+CUST00960,At Risk,1,2,2,4,8
+CUST00961,At Risk,1,1,3,4,8
+CUST00962,Potential Loyalists,2,4,2,1,7
+CUST00963,Hibernating,6,2,2,2,6
+CUST00964,Hibernating,6,1,1,1,3
+CUST00965,Potential Loyalists,2,5,3,2,10
+CUST00966,Potential Loyalists,2,4,2,5,11
+CUST00967,Hibernating,6,1,1,1,3
+CUST00968,Hibernating,6,2,2,2,6
+CUST00969,Loyal Customers,3,4,3,4,11
+CUST00970,Hibernating,6,1,1,1,3
+CUST00971,Loyal Customers,3,3,4,5,12
+CUST00972,Needs Attention,5,3,2,4,9
+CUST00973,Loyal Customers,3,4,3,3,10
+CUST00974,Loyal Customers,3,3,4,5,12
+CUST00975,Needs Attention,5,3,2,2,7
+CUST00976,Potential Loyalists,2,5,2,2,9
+CUST00977,Loyal Customers,3,5,3,4,12
+CUST00978,Hibernating,6,1,1,1,3
+CUST00979,At Risk,1,2,2,3,7
+CUST00980,Needs Attention,5,3,2,2,7
+CUST00981,At Risk,1,2,3,4,9
+CUST00982,At Risk,1,2,4,4,10
+CUST00983,Hibernating,6,1,1,1,3
+CUST00984,Loyal Customers,3,4,3,3,10
+CUST00985,Needs Attention,5,3,2,3,8
+CUST00986,Loyal Customers,3,3,3,3,9
+CUST00987,Potential Loyalists,2,5,2,4,11
+CUST00988,Champions,4,5,5,5,15
+CUST00989,At Risk,1,1,3,3,7
+CUST00990,At Risk,1,1,4,5,10
+CUST00991,Champions,4,4,4,5,13
+CUST00992,Hibernating,6,1,1,1,3
+CUST00993,At Risk,1,1,2,4,7
+CUST00994,Loyal Customers,3,3,3,5,11
+CUST00995,Hibernating,6,1,2,2,5
+CUST00996,Champions,4,5,5,5,15
+CUST00997,Hibernating,6,1,2,1,4
+CUST00998,Loyal Customers,3,3,4,5,12
+CUST00999,At Risk,1,1,2,3,6
+CUST01000,Loyal Customers,3,3,3,3,9
+CUST01001,Hibernating,6,1,1,1,3
+CUST01002,Loyal Customers,3,3,3,4,10
+CUST01003,At Risk,1,2,2,3,7
+CUST01004,Hibernating,6,1,1,1,3
+CUST01005,At Risk,1,2,2,4,8
+CUST01006,Potential Loyalists,2,5,2,2,9
+CUST01007,At Risk,1,2,3,4,9
+CUST01008,Hibernating,6,1,1,1,3
+CUST01009,Potential Loyalists,2,4,2,1,7
+CUST01010,Potential Loyalists,2,4,2,2,8
+CUST01011,Hibernating,6,1,1,1,3
+CUST01012,Loyal Customers,3,4,3,4,11
+CUST01013,Hibernating,6,1,1,1,3
+CUST01014,Hibernating,6,2,2,2,6
+CUST01015,Potential Loyalists,2,4,2,2,8
+CUST01016,Loyal Customers,3,5,3,3,11
+CUST01017,At Risk,1,2,3,3,8
+CUST01018,Potential Loyalists,2,5,2,2,9
+CUST01019,Hibernating,6,1,1,1,3
+CUST01020,Hibernating,6,2,2,1,5
+CUST01021,Loyal Customers,3,5,3,3,11
+CUST01022,Hibernating,6,1,1,1,3
+CUST01023,Hibernating,6,1,1,1,3
+CUST01024,Potential Loyalists,2,5,2,1,8
+CUST01025,Loyal Customers,3,4,3,5,12
+CUST01026,Needs Attention,5,3,2,1,6
+CUST01027,Loyal Customers,3,3,4,5,12
+CUST01028,At Risk,1,1,2,5,8
+CUST01029,Hibernating,6,2,2,1,5
+CUST01030,Champions,4,4,5,5,14
+CUST01031,Hibernating,6,1,2,2,5
+CUST01032,Potential Loyalists,2,5,2,2,9
+CUST01033,Champions,4,5,5,5,15
+CUST01034,At Risk,1,2,2,3,7
+CUST01035,Champions,4,5,4,4,13
+CUST01036,At Risk,1,2,4,5,11
+CUST01037,Potential Loyalists,2,5,2,2,9
+CUST01038,Loyal Customers,3,3,4,4,11
+CUST01039,Hibernating,6,2,2,2,6
+CUST01040,Hibernating,6,2,2,2,6
+CUST01041,Hibernating,6,1,2,1,4
+CUST01042,Potential Loyalists,2,5,2,2,9
+CUST01043,Needs Attention,5,3,2,2,7
+CUST01044,Needs Attention,5,3,2,5,10
+CUST01045,Hibernating,6,2,2,2,6
+CUST01046,At Risk,1,2,2,3,7
+CUST01047,Hibernating,6,1,2,2,5
+CUST01048,Hibernating,6,2,2,2,6
+CUST01049,Hibernating,6,2,2,1,5
+CUST01050,Loyal Customers,3,5,3,4,12
+CUST01051,Hibernating,6,2,2,2,6
+CUST01052,At Risk,1,1,2,3,6
+CUST01053,At Risk,1,2,2,5,9
+CUST01054,Hibernating,6,1,2,2,5
+CUST01055,Hibernating,6,1,1,1,3
+CUST01056,Loyal Customers,3,3,4,5,12
+CUST01057,Potential Loyalists,2,5,2,3,10
+CUST01058,Hibernating,6,2,2,1,5
+CUST01059,Hibernating,6,2,2,2,6
+CUST01060,Loyal Customers,3,3,3,4,10
+CUST01061,Potential Loyalists,2,5,2,2,9
+CUST01062,Hibernating,6,1,1,1,3
+CUST01063,Potential Loyalists,2,5,2,1,8
+CUST01064,Loyal Customers,3,5,3,3,11
+CUST01065,Potential Loyalists,2,5,2,2,9
+CUST01066,Potential Loyalists,2,5,2,3,10
+CUST01067,Potential Loyalists,2,4,2,2,8
+CUST01068,At Risk,1,2,3,4,9
+CUST01069,Needs Attention,5,3,2,4,9
+CUST01070,Potential Loyalists,2,5,2,1,8
+CUST01071,Potential Loyalists,2,5,2,3,10
+CUST01072,Hibernating,6,1,1,1,3
+CUST01073,Needs Attention,5,3,2,5,10
+CUST01074,At Risk,1,2,3,4,9
+CUST01075,Loyal Customers,3,4,3,4,11
+CUST01076,Loyal Customers,3,3,3,3,9
+CUST01077,Needs Attention,5,3,2,3,8
+CUST01078,Hibernating,6,1,2,2,5
+CUST01079,At Risk,1,1,2,4,7
+CUST01080,Hibernating,6,2,2,2,6
+CUST01081,Loyal Customers,3,5,3,3,11
+CUST01082,Potential Loyalists,2,4,2,3,9
+CUST01083,Hibernating,6,1,1,1,3
+CUST01084,Loyal Customers,3,3,4,4,11
+CUST01085,Hibernating,6,1,1,1,3
+CUST01086,Loyal Customers,3,3,3,4,10
+CUST01087,Potential Loyalists,2,5,2,3,10
+CUST01088,Potential Loyalists,2,5,2,1,8
+CUST01089,Potential Loyalists,2,4,2,1,7
+CUST01090,At Risk,1,2,3,4,9
+CUST01091,Hibernating,6,2,2,2,6
+CUST01092,Hibernating,6,1,1,1,3
+CUST01093,Hibernating,6,1,1,1,3
+CUST01094,Loyal Customers,3,3,4,4,11
+CUST01095,Potential Loyalists,2,4,2,2,8
+CUST01096,Champions,4,5,5,5,15
+CUST01097,Hibernating,6,1,1,1,3
+CUST01098,Hibernating,6,1,1,1,3
+CUST01099,Champions,4,5,4,5,14
+CUST01100,Potential Loyalists,2,4,2,2,8
+CUST01101,Potential Loyalists,2,5,2,3,10
+CUST01102,Needs Attention,5,3,2,4,9
+CUST01103,Loyal Customers,3,3,3,3,9
+CUST01104,Hibernating,6,2,2,2,6
+CUST01105,Loyal Customers,3,3,4,4,11
+CUST01106,Needs Attention,5,3,2,3,8
+CUST01107,At Risk,1,2,3,3,8
+CUST01108,Loyal Customers,3,4,3,4,11
+CUST01109,Potential Loyalists,2,4,2,1,7
+CUST01110,Hibernating,6,1,1,1,3
+CUST01111,At Risk,1,2,3,3,8
+CUST01112,Loyal Customers,3,3,3,5,11
+CUST01113,At Risk,1,2,3,2,7
+CUST01114,At Risk,1,2,2,3,7
+CUST01115,Champions,4,5,5,5,15
+CUST01116,Needs Attention,5,3,2,5,10
+CUST01117,Champions,4,4,4,5,13
+CUST01118,Hibernating,6,1,2,2,5
+CUST01119,Hibernating,6,2,2,2,6
+CUST01120,Needs Attention,5,3,2,4,9
+CUST01121,Hibernating,6,2,2,1,5
+CUST01122,Potential Loyalists,2,5,2,4,11
+CUST01123,Hibernating,6,1,1,1,3
+CUST01124,At Risk,1,1,4,4,9
+CUST01125,Hibernating,6,1,1,1,3
+CUST01126,Loyal Customers,3,5,3,5,13
+CUST01127,At Risk,1,2,3,3,8
+CUST01128,Hibernating,6,1,1,1,3
+CUST01129,Hibernating,6,1,2,2,5
+CUST01130,At Risk,1,2,3,4,9
+CUST01131,Potential Loyalists,2,4,2,2,8
+CUST01132,Loyal Customers,3,5,3,5,13
+CUST01133,Loyal Customers,3,4,3,3,10
+CUST01134,Loyal Customers,3,3,3,5,11
+CUST01135,At Risk,1,2,3,5,10
+CUST01136,At Risk,1,2,4,5,11
+CUST01137,Hibernating,6,2,2,2,6
+CUST01138,At Risk,1,2,3,4,9
+CUST01139,Potential Loyalists,2,4,2,5,11
+CUST01140,Champions,4,4,4,4,12
+CUST01141,At Risk,1,2,2,3,7
+CUST01142,Loyal Customers,3,4,3,3,10
+CUST01143,Potential Loyalists,2,5,2,2,9
+CUST01144,Champions,4,4,4,5,13
+CUST01145,Hibernating,6,1,1,1,3
+CUST01146,Loyal Customers,3,4,3,5,12
+CUST01147,Loyal Customers,3,5,4,3,12
+CUST01148,At Risk,1,2,5,5,12
+CUST01149,Loyal Customers,3,3,3,3,9
+CUST01150,Hibernating,6,1,2,2,5
+CUST01151,At Risk,1,2,2,3,7
+CUST01152,Champions,4,5,5,5,15
+CUST01153,Potential Loyalists,2,4,2,3,9
+CUST01154,Loyal Customers,3,3,3,5,11
+CUST01155,Loyal Customers,3,5,3,4,12
+CUST01156,Loyal Customers,3,5,3,3,11
+CUST01157,Potential Loyalists,2,5,2,3,10
+CUST01158,Champions,4,4,4,5,13
+CUST01159,Loyal Customers,3,3,3,4,10
+CUST01160,At Risk,1,1,2,3,6
+CUST01161,At Risk,1,1,3,4,8
+CUST01162,Hibernating,6,1,2,2,5
+CUST01163,Hibernating,6,1,1,1,3
+CUST01164,Potential Loyalists,2,4,2,3,9
+CUST01165,Hibernating,6,1,2,2,5
+CUST01166,Loyal Customers,3,4,3,4,11
+CUST01167,Champions,4,4,4,5,13
+CUST01168,Potential Loyalists,2,5,2,2,9
+CUST01169,Needs Attention,5,3,2,4,9
+CUST01170,Hibernating,6,2,2,1,5
+CUST01171,At Risk,1,2,2,3,7
+CUST01172,Champions,4,4,4,5,13
+CUST01173,Loyal Customers,3,3,3,3,9
+CUST01174,Hibernating,6,2,2,2,6
+CUST01175,Loyal Customers,3,3,4,5,12
+CUST01176,Hibernating,6,1,1,1,3
+CUST01177,Loyal Customers,3,3,4,5,12
+CUST01178,Loyal Customers,3,3,4,4,11
+CUST01179,Hibernating,6,2,2,2,6
+CUST01180,Loyal Customers,3,4,3,5,12
+CUST01181,Hibernating,6,2,2,1,5
+CUST01182,Hibernating,6,2,2,2,6
+CUST01183,Potential Loyalists,2,5,2,2,9
+CUST01184,Champions,4,4,4,4,12
+CUST01185,Loyal Customers,3,4,3,4,11
+CUST01186,At Risk,1,1,3,5,9
+CUST01187,Champions,4,4,4,4,12
+CUST01188,At Risk,1,2,3,2,7
+CUST01189,At Risk,1,1,3,5,9
+CUST01190,Champions,4,4,4,4,12
+CUST01191,Needs Attention,5,3,2,2,7
+CUST01192,Champions,4,4,4,4,12
+CUST01193,Hibernating,6,1,1,1,3
+CUST01194,Loyal Customers,3,3,3,3,9
+CUST01195,Hibernating,6,2,2,2,6
+CUST01196,At Risk,1,2,3,5,10
+CUST01197,Needs Attention,5,3,3,2,8
+CUST01198,Potential Loyalists,2,4,2,2,8
+CUST01199,Hibernating,6,1,1,1,3
+CUST01200,Needs Attention,5,3,2,2,7
+CUST01201,At Risk,1,1,2,3,6
+CUST01202,Hibernating,6,2,2,2,6
+CUST01203,Needs Attention,5,3,2,1,6
+CUST01204,Needs Attention,5,3,2,2,7
+CUST01205,Hibernating,6,1,1,1,3
+CUST01206,Needs Attention,5,3,2,3,8
+CUST01207,Hibernating,6,2,2,1,5
+CUST01208,At Risk,1,2,3,3,8
+CUST01209,Potential Loyalists,2,5,3,2,10
+CUST01210,Hibernating,6,1,1,1,3
+CUST01211,Champions,4,5,4,5,14
+CUST01212,Loyal Customers,3,5,3,5,13
+CUST01213,Hibernating,6,1,2,2,5
+CUST01214,At Risk,1,2,2,3,7
+CUST01215,Loyal Customers,3,3,3,4,10
+CUST01216,At Risk,1,2,2,3,7
+CUST01217,Hibernating,6,1,2,2,5
+CUST01218,Potential Loyalists,2,5,2,3,10
+CUST01219,At Risk,1,2,3,3,8
+CUST01220,At Risk,1,2,2,3,7
+CUST01221,Potential Loyalists,2,5,2,2,9
+CUST01222,Potential Loyalists,2,5,2,4,11
+CUST01223,At Risk,1,2,4,4,10
+CUST01224,Potential Loyalists,2,4,2,3,9
+CUST01225,Hibernating,6,2,2,2,6
+CUST01226,Champions,4,4,4,4,12
+CUST01227,Champions,4,4,4,4,12
+CUST01228,Hibernating,6,1,1,1,3
+CUST01229,Hibernating,6,2,2,2,6
+CUST01230,Hibernating,6,2,2,1,5
+CUST01231,Hibernating,6,1,1,1,3
+CUST01232,Hibernating,6,1,1,1,3
+CUST01233,Needs Attention,5,3,2,2,7
+CUST01234,At Risk,1,2,3,4,9
+CUST01235,Hibernating,6,1,2,2,5
+CUST01236,Loyal Customers,3,5,4,3,12
+CUST01237,At Risk,1,2,3,4,9
+CUST01238,Loyal Customers,3,3,4,5,12
+CUST01239,Hibernating,6,1,1,1,3
+CUST01240,Potential Loyalists,2,5,2,2,9
+CUST01241,Potential Loyalists,2,4,2,1,7
+CUST01242,Champions,4,4,5,5,14
+CUST01243,Loyal Customers,3,3,4,4,11
+CUST01244,Loyal Customers,3,4,3,5,12
+CUST01245,Hibernating,6,1,1,1,3
+CUST01246,Hibernating,6,1,1,1,3
+CUST01247,Potential Loyalists,2,5,2,4,11
+CUST01248,At Risk,1,2,2,4,8
+CUST01249,Loyal Customers,3,3,4,5,12
+CUST01250,Hibernating,6,1,2,2,5
+CUST01251,Needs Attention,5,3,2,2,7
+CUST01252,Loyal Customers,3,4,3,5,12
+CUST01253,At Risk,1,2,3,5,10
+CUST01254,Loyal Customers,3,3,3,5,11
+CUST01255,Needs Attention,5,3,2,5,10
+CUST01256,Hibernating,6,1,1,1,3
+CUST01257,Loyal Customers,3,4,3,3,10
+CUST01258,Hibernating,6,1,1,1,3
+CUST01259,At Risk,1,2,2,3,7
+CUST01260,Potential Loyalists,2,5,2,3,10
+CUST01261,Potential Loyalists,2,5,2,1,8
+CUST01262,Potential Loyalists,2,4,2,1,7
+CUST01263,Champions,4,4,4,5,13
+CUST01264,Needs Attention,5,3,2,5,10
+CUST01265,Loyal Customers,3,5,3,4,12
+CUST01266,Loyal Customers,3,3,4,5,12
+CUST01267,Loyal Customers,3,3,3,3,9
+CUST01268,Potential Loyalists,2,5,2,2,9
+CUST01269,Needs Attention,5,3,2,2,7
+CUST01270,Needs Attention,5,3,2,1,6
+CUST01271,Potential Loyalists,2,5,2,2,9
+CUST01272,Potential Loyalists,2,4,2,4,10
+CUST01273,At Risk,1,1,2,4,7
+CUST01274,Loyal Customers,3,4,3,3,10
+CUST01275,Champions,4,4,4,5,13
+CUST01276,Hibernating,6,2,2,2,6
+CUST01277,At Risk,1,2,2,3,7
+CUST01278,Loyal Customers,3,3,3,3,9
+CUST01279,At Risk,1,2,2,4,8
+CUST01280,Champions,4,4,4,5,13
+CUST01281,Hibernating,6,1,1,1,3
+CUST01282,Needs Attention,5,3,2,2,7
+CUST01283,Champions,4,4,5,5,14
+CUST01284,Hibernating,6,1,1,1,3
+CUST01285,At Risk,1,2,3,3,8
+CUST01286,Hibernating,6,1,1,1,3
+CUST01287,At Risk,1,2,3,3,8
+CUST01288,Hibernating,6,2,2,2,6
+CUST01289,Potential Loyalists,2,5,2,3,10
+CUST01290,Loyal Customers,3,3,3,3,9
+CUST01291,Hibernating,6,1,1,1,3
+CUST01292,Loyal Customers,3,4,3,5,12
+CUST01293,Loyal Customers,3,5,3,3,11
+CUST01294,Potential Loyalists,2,5,2,3,10
+CUST01295,At Risk,1,2,4,5,11
+CUST01296,Potential Loyalists,2,5,2,2,9
+CUST01297,Champions,4,5,4,4,13
+CUST01298,Hibernating,6,1,1,1,3
+CUST01299,At Risk,1,1,2,3,6
+CUST01300,Champions,4,4,4,5,13
+CUST01301,Loyal Customers,3,3,3,3,9
+CUST01302,Champions,4,5,5,5,15
+CUST01303,Potential Loyalists,2,5,2,3,10
+CUST01304,Loyal Customers,3,4,3,3,10
+CUST01305,Needs Attention,5,3,2,1,6
+CUST01306,Loyal Customers,3,3,3,5,11
+CUST01307,Hibernating,6,1,1,1,3
+CUST01308,Hibernating,6,2,2,2,6
+CUST01309,Loyal Customers,3,3,4,4,11
+CUST01310,At Risk,1,2,3,4,9
+CUST01311,Loyal Customers,3,4,3,3,10
+CUST01312,Loyal Customers,3,5,3,4,12
+CUST01313,Loyal Customers,3,5,3,4,12
+CUST01314,Loyal Customers,3,5,3,3,11
+CUST01315,Hibernating,6,1,1,1,3
+CUST01316,Hibernating,6,2,2,2,6
+CUST01317,Hibernating,6,1,1,1,3
+CUST01318,Hibernating,6,2,2,2,6
+CUST01319,Hibernating,6,2,2,1,5
+CUST01320,Hibernating,6,1,2,2,5
+CUST01321,At Risk,1,2,5,4,11
+CUST01322,Hibernating,6,2,2,2,6
+CUST01323,Hibernating,6,1,1,1,3
+CUST01324,Hibernating,6,1,1,1,3
+CUST01325,Hibernating,6,1,1,1,3
+CUST01326,At Risk,1,2,2,4,8
+CUST01327,Loyal Customers,3,3,4,5,12
+CUST01328,Loyal Customers,3,3,3,5,11
+CUST01329,Loyal Customers,3,3,4,4,11
+CUST01330,Champions,4,5,4,5,14
+CUST01331,Champions,4,5,4,4,13
+CUST01332,Champions,4,5,4,5,14
+CUST01333,Needs Attention,5,3,2,2,7
+CUST01334,At Risk,1,1,2,3,6
+CUST01335,Loyal Customers,3,3,3,5,11
+CUST01336,Loyal Customers,3,5,3,3,11
+CUST01337,Needs Attention,5,3,2,3,8
+CUST01338,Potential Loyalists,2,5,2,1,8
+CUST01339,Hibernating,6,1,2,2,5
+CUST01340,Needs Attention,5,3,2,2,7
+CUST01341,Potential Loyalists,2,4,2,2,8
+CUST01342,Loyal Customers,3,3,3,3,9
+CUST01343,Loyal Customers,3,5,4,3,12
+CUST01344,Hibernating,6,1,1,1,3
+CUST01345,Potential Loyalists,2,4,2,5,11
+CUST01346,Champions,4,4,4,5,13
+CUST01347,Hibernating,6,2,2,1,5
+CUST01348,Hibernating,6,2,2,2,6
+CUST01349,Loyal Customers,3,3,3,5,11
+CUST01350,Hibernating,6,1,1,1,3
+CUST01351,Potential Loyalists,2,4,2,2,8
+CUST01352,At Risk,1,2,3,3,8
+CUST01353,Needs Attention,5,3,2,2,7
+CUST01354,Loyal Customers,3,5,3,3,11
+CUST01355,Hibernating,6,2,2,2,6
+CUST01356,Potential Loyalists,2,4,2,1,7
+CUST01357,Hibernating,6,2,2,1,5
+CUST01358,Potential Loyalists,2,5,2,3,10
+CUST01359,At Risk,1,2,3,3,8
+CUST01360,Hibernating,6,1,2,1,4
+CUST01361,Potential Loyalists,2,5,2,3,10
+CUST01362,Needs Attention,5,3,2,2,7
+CUST01363,Needs Attention,5,3,2,2,7
+CUST01364,At Risk,1,1,2,4,7
+CUST01365,Hibernating,6,1,1,1,3
+CUST01366,Hibernating,6,2,2,1,5
+CUST01367,Needs Attention,5,3,2,1,6
+CUST01368,Hibernating,6,1,1,1,3
+CUST01369,Potential Loyalists,2,4,2,2,8
+CUST01370,At Risk,1,1,3,4,8
+CUST01371,Loyal Customers,3,5,3,5,13
+CUST01372,Needs Attention,5,3,2,1,6
+CUST01373,Potential Loyalists,2,4,2,1,7
+CUST01374,Hibernating,6,2,2,1,5
+CUST01375,Loyal Customers,3,3,3,3,9
+CUST01376,Potential Loyalists,2,4,2,2,8
+CUST01377,Potential Loyalists,2,5,2,2,9
+CUST01378,Hibernating,6,2,2,1,5
+CUST01379,Hibernating,6,1,1,1,3
+CUST01380,Loyal Customers,3,4,3,3,10
+CUST01381,Champions,4,5,5,5,15
+CUST01382,Loyal Customers,3,5,3,3,11
+CUST01383,Champions,4,5,4,4,13
+CUST01384,At Risk,1,2,3,5,10
+CUST01385,Champions,4,5,4,4,13
+CUST01386,Champions,4,5,4,5,14
+CUST01387,At Risk,1,2,2,3,7
+CUST01388,Needs Attention,5,3,2,5,10
+CUST01389,Loyal Customers,3,3,3,4,10
+CUST01390,Loyal Customers,3,5,3,4,12
+CUST01391,At Risk,1,2,2,3,7
+CUST01392,Potential Loyalists,2,5,2,4,11
+CUST01393,Needs Attention,5,3,2,2,7
+CUST01394,Loyal Customers,3,5,3,4,12
+CUST01395,Champions,4,4,4,5,13
+CUST01396,At Risk,1,2,2,3,7
+CUST01397,Champions,4,5,4,5,14
+CUST01398,Needs Attention,5,3,2,4,9
+CUST01399,Champions,4,5,4,5,14
+CUST01400,Hibernating,6,2,2,1,5
+CUST01401,Loyal Customers,3,3,3,5,11
+CUST01402,Hibernating,6,1,1,1,3
+CUST01403,Hibernating,6,1,1,1,3
+CUST01404,Hibernating,6,1,1,1,3
+CUST01405,At Risk,1,2,2,3,7
+CUST01406,Hibernating,6,1,1,1,3
+CUST01407,At Risk,1,2,2,3,7
+CUST01408,Hibernating,6,1,1,1,3
+CUST01409,Loyal Customers,3,4,4,3,11
+CUST01410,At Risk,1,2,3,2,7
+CUST01411,Hibernating,6,1,1,1,3
+CUST01412,Hibernating,6,2,2,1,5
+CUST01413,Hibernating,6,1,1,1,3
+CUST01414,Potential Loyalists,2,4,2,2,8
+CUST01415,Potential Loyalists,2,5,2,2,9
+CUST01416,Loyal Customers,3,3,4,5,12
+CUST01417,Hibernating,6,1,2,2,5
+CUST01418,At Risk,1,1,2,3,6
+CUST01419,Potential Loyalists,2,4,2,3,9
+CUST01420,Loyal Customers,3,3,4,5,12
+CUST01421,Potential Loyalists,2,4,2,3,9
+CUST01422,Loyal Customers,3,3,4,4,11
+CUST01423,Loyal Customers,3,4,3,3,10
+CUST01424,At Risk,1,2,2,5,9
+CUST01425,Needs Attention,5,3,2,3,8
+CUST01426,Potential Loyalists,2,4,2,3,9
+CUST01427,Champions,4,5,4,5,14
+CUST01428,Needs Attention,5,3,2,3,8
+CUST01429,Loyal Customers,3,3,3,4,10
+CUST01430,Champions,4,5,4,5,14
+CUST01431,Potential Loyalists,2,5,2,3,10
+CUST01432,Hibernating,6,2,2,2,6
+CUST01433,At Risk,1,2,3,3,8
+CUST01434,Champions,4,5,4,4,13
+CUST01435,Hibernating,6,1,1,1,3
+CUST01436,Loyal Customers,3,5,3,5,13
+CUST01437,Hibernating,6,1,1,1,3
+CUST01438,At Risk,1,1,3,5,9
+CUST01439,Champions,4,5,4,5,14
+CUST01440,Champions,4,5,4,5,14
+CUST01441,Hibernating,6,1,1,1,3
+CUST01442,At Risk,1,2,4,5,11
+CUST01443,Champions,4,5,4,5,14
+CUST01444,Loyal Customers,3,4,3,3,10
+CUST01445,At Risk,1,2,3,5,10
+CUST01446,At Risk,1,2,2,3,7
+CUST01447,Potential Loyalists,2,5,2,4,11
+CUST01448,Hibernating,6,1,1,1,3
+CUST01449,Loyal Customers,3,5,3,3,11
+CUST01450,At Risk,1,2,3,4,9
+CUST01451,Potential Loyalists,2,4,2,4,10
+CUST01452,At Risk,1,2,2,4,8
+CUST01453,Loyal Customers,3,3,3,4,10
+CUST01454,Loyal Customers,3,3,4,5,12
+CUST01455,Hibernating,6,1,1,1,3
+CUST01456,Potential Loyalists,2,5,2,3,10
+CUST01457,Hibernating,6,1,1,1,3
+CUST01458,Needs Attention,5,3,2,4,9
+CUST01459,Loyal Customers,3,3,4,4,11
+CUST01460,At Risk,1,2,4,4,10
+CUST01461,At Risk,1,2,3,4,9
+CUST01462,Needs Attention,5,3,2,2,7
+CUST01463,Hibernating,6,1,1,1,3
+CUST01464,Loyal Customers,3,4,3,4,11
+CUST01465,Potential Loyalists,2,5,3,2,10
+CUST01466,Loyal Customers,3,3,3,4,10
+CUST01467,At Risk,1,2,3,2,7
+CUST01468,At Risk,1,1,2,3,6
+CUST01469,Potential Loyalists,2,4,2,4,10
+CUST01470,Hibernating,6,1,1,1,3
+CUST01471,Loyal Customers,3,3,4,5,12
+CUST01472,Champions,4,5,4,5,14
+CUST01473,Loyal Customers,3,3,4,5,12
+CUST01474,Loyal Customers,3,3,3,3,9
+CUST01475,Hibernating,6,2,2,2,6
+CUST01476,Hibernating,6,2,2,1,5
+CUST01477,Loyal Customers,3,3,4,4,11
+CUST01478,Champions,4,4,4,5,13
+CUST01479,Champions,4,4,4,4,12
+CUST01480,Hibernating,6,1,1,1,3
+CUST01481,At Risk,1,2,3,4,9
+CUST01482,At Risk,1,1,3,3,7
+CUST01483,Loyal Customers,3,5,3,3,11
+CUST01484,Hibernating,6,2,2,2,6
+CUST01485,Loyal Customers,3,3,4,5,12
+CUST01486,Needs Attention,5,3,2,3,8
+CUST01487,Hibernating,6,1,1,1,3
+CUST01488,Champions,4,4,4,4,12
+CUST01489,Champions,4,4,4,5,13
+CUST01490,At Risk,1,2,3,4,9
+CUST01491,At Risk,1,2,3,4,9
+CUST01492,Loyal Customers,3,3,3,5,11
+CUST01493,Loyal Customers,3,5,3,3,11
+CUST01494,Hibernating,6,1,1,1,3
+CUST01495,At Risk,1,2,4,5,11
+CUST01496,Potential Loyalists,2,5,2,2,9
+CUST01497,Champions,4,4,4,5,13
+CUST01498,Champions,4,5,4,5,14
+CUST01499,At Risk,1,2,2,4,8
+CUST01500,Hibernating,6,2,2,1,5
+CUST01501,Needs Attention,5,3,3,2,8
+CUST01502,Loyal Customers,3,3,3,4,10
+CUST01503,Hibernating,6,2,2,1,5
+CUST01504,Hibernating,6,1,2,2,5
+CUST01505,Needs Attention,5,3,2,2,7
+CUST01506,Hibernating,6,2,2,1,5
+CUST01507,At Risk,1,2,3,5,10
+CUST01508,Potential Loyalists,2,5,2,3,10
+CUST01509,Champions,4,5,4,4,13
+CUST01510,At Risk,1,2,3,4,9
+CUST01511,At Risk,1,2,4,5,11
+CUST01512,Potential Loyalists,2,4,2,3,9
+CUST01513,At Risk,1,2,2,3,7
+CUST01514,Loyal Customers,3,3,4,4,11
+CUST01515,At Risk,1,2,4,5,11
+CUST01516,Hibernating,6,1,2,2,5
+CUST01517,Hibernating,6,2,2,2,6
+CUST01518,Hibernating,6,1,1,1,3
+CUST01519,At Risk,1,2,4,5,11
+CUST01520,Potential Loyalists,2,5,2,1,8
+CUST01521,Loyal Customers,3,5,3,3,11
+CUST01522,Needs Attention,5,3,2,3,8
+CUST01523,Champions,4,5,4,5,14
+CUST01524,Potential Loyalists,2,5,2,5,12
+CUST01525,Loyal Customers,3,3,3,4,10
+CUST01526,Loyal Customers,3,5,3,5,13
+CUST01527,Hibernating,6,1,1,1,3
+CUST01528,Hibernating,6,2,2,2,6
+CUST01529,Hibernating,6,1,1,1,3
+CUST01530,Hibernating,6,1,1,1,3
+CUST01531,Hibernating,6,1,1,1,3
+CUST01532,At Risk,1,1,2,3,6
+CUST01533,At Risk,1,1,2,3,6
+CUST01534,Potential Loyalists,2,4,2,2,8
+CUST01535,Champions,4,5,5,5,15
+CUST01536,Potential Loyalists,2,5,2,3,10
+CUST01537,Hibernating,6,2,2,1,5
+CUST01538,Needs Attention,5,3,2,1,6
+CUST01539,Hibernating,6,1,2,2,5
+CUST01540,Hibernating,6,1,1,1,3
+CUST01541,Needs Attention,5,3,2,2,7
+CUST01542,Potential Loyalists,2,5,2,2,9
+CUST01543,At Risk,1,2,2,4,8
+CUST01544,At Risk,1,2,3,4,9
+CUST01545,At Risk,1,2,2,3,7
+CUST01546,Potential Loyalists,2,4,3,2,9
+CUST01547,At Risk,1,2,3,3,8
+CUST01548,Needs Attention,5,3,2,2,7
+CUST01549,At Risk,1,1,2,3,6
+CUST01550,At Risk,1,2,4,4,10
+CUST01551,Needs Attention,5,3,2,2,7
+CUST01552,At Risk,1,2,3,3,8
+CUST01553,Hibernating,6,1,2,2,5
+CUST01554,Loyal Customers,3,3,3,5,11
+CUST01555,Potential Loyalists,2,4,2,1,7
+CUST01556,Loyal Customers,3,4,3,3,10
+CUST01557,Potential Loyalists,2,4,2,2,8
+CUST01558,Hibernating,6,1,1,1,3
+CUST01559,At Risk,1,2,4,4,10
+CUST01560,Loyal Customers,3,5,3,3,11
+CUST01561,Hibernating,6,1,2,2,5
+CUST01562,Loyal Customers,3,3,3,4,10
+CUST01563,Loyal Customers,3,5,3,4,12
+CUST01564,Hibernating,6,1,1,1,3
+CUST01565,Potential Loyalists,2,4,2,2,8
+CUST01566,Potential Loyalists,2,5,2,2,9
+CUST01567,Hibernating,6,1,1,1,3
+CUST01568,At Risk,1,1,2,3,6
+CUST01569,Needs Attention,5,3,2,4,9
+CUST01570,At Risk,1,2,3,2,7
+CUST01571,Hibernating,6,1,1,1,3
+CUST01572,Hibernating,6,1,1,1,3
+CUST01573,Loyal Customers,3,3,4,5,12
+CUST01574,At Risk,1,1,3,5,9
+CUST01575,At Risk,1,1,2,4,7
+CUST01576,Needs Attention,5,3,2,5,10
+CUST01577,Hibernating,6,2,2,1,5
+CUST01578,Potential Loyalists,2,5,2,4,11
+CUST01579,Champions,4,4,5,5,14
+CUST01580,Loyal Customers,3,5,3,3,11
+CUST01581,Champions,4,4,4,5,13
+CUST01582,Loyal Customers,3,3,3,3,9
+CUST01583,Hibernating,6,1,1,1,3
+CUST01584,Loyal Customers,3,5,3,3,11
+CUST01585,Potential Loyalists,2,4,2,1,7
+CUST01586,Potential Loyalists,2,4,2,3,9
+CUST01587,At Risk,1,2,3,4,9
+CUST01588,At Risk,1,2,4,5,11
+CUST01589,Hibernating,6,2,2,2,6
+CUST01590,At Risk,1,2,3,4,9
+CUST01591,At Risk,1,2,3,5,10
+CUST01592,Hibernating,6,2,2,2,6
+CUST01593,Potential Loyalists,2,4,2,2,8
+CUST01594,Loyal Customers,3,4,3,4,11
+CUST01595,Needs Attention,5,3,2,2,7
+CUST01596,Loyal Customers,3,3,4,4,11
+CUST01597,Potential Loyalists,2,4,2,2,8
+CUST01598,Needs Attention,5,3,2,1,6
+CUST01599,Needs Attention,5,3,2,1,6
+CUST01600,Potential Loyalists,2,5,2,2,9
+CUST01601,Loyal Customers,3,3,3,3,9
+CUST01602,Champions,4,4,4,4,12
+CUST01603,Hibernating,6,1,2,2,5
+CUST01604,Loyal Customers,3,3,4,4,11
+CUST01605,Potential Loyalists,2,5,2,3,10
+CUST01606,Hibernating,6,1,2,1,4
+CUST01607,At Risk,1,1,2,4,7
+CUST01608,Potential Loyalists,2,4,2,2,8
+CUST01609,Needs Attention,5,3,2,3,8
+CUST01610,Loyal Customers,3,3,4,5,12
+CUST01611,Champions,4,4,4,5,13
+CUST01612,Hibernating,6,1,1,1,3
+CUST01613,Hibernating,6,1,1,1,3
+CUST01614,At Risk,1,2,3,4,9
+CUST01615,Champions,4,5,4,4,13
+CUST01616,At Risk,1,1,2,3,6
+CUST01617,Loyal Customers,3,3,3,4,10
+CUST01618,Needs Attention,5,3,2,2,7
+CUST01619,Loyal Customers,3,5,4,3,12
+CUST01620,Champions,4,5,4,5,14
+CUST01621,Champions,4,4,4,5,13
+CUST01622,Loyal Customers,3,5,3,3,11
+CUST01623,Hibernating,6,1,1,1,3
+CUST01624,Loyal Customers,3,3,4,5,12
+CUST01625,Potential Loyalists,2,5,3,2,10
+CUST01626,Champions,4,4,4,5,13
+CUST01627,Hibernating,6,1,1,1,3
+CUST01628,Hibernating,6,1,2,2,5
+CUST01629,Loyal Customers,3,3,3,3,9
+CUST01630,Champions,4,5,4,5,14
+CUST01631,Champions,4,5,4,5,14
+CUST01632,Potential Loyalists,2,5,2,4,11
+CUST01633,Loyal Customers,3,3,3,3,9
+CUST01634,Potential Loyalists,2,4,2,2,8
+CUST01635,Loyal Customers,3,4,3,4,11
+CUST01636,Potential Loyalists,2,5,2,1,8
+CUST01637,Champions,4,4,5,5,14
+CUST01638,Loyal Customers,3,4,3,4,11
+CUST01639,At Risk,1,1,2,4,7
+CUST01640,Hibernating,6,2,2,2,6
+CUST01641,Hibernating,6,2,2,2,6
+CUST01642,Champions,4,5,4,5,14
+CUST01643,Hibernating,6,1,1,1,3
+CUST01644,At Risk,1,2,3,3,8
+CUST01645,Loyal Customers,3,3,4,5,12
+CUST01646,Loyal Customers,3,3,4,5,12
+CUST01647,Champions,4,5,4,5,14
+CUST01648,Hibernating,6,1,2,2,5
+CUST01649,Hibernating,6,1,1,1,3
+CUST01650,At Risk,1,2,2,4,8
+CUST01651,Hibernating,6,2,2,2,6
+CUST01652,Champions,4,4,4,5,13
+CUST01653,At Risk,1,2,3,4,9
+CUST01654,At Risk,1,2,2,3,7
+CUST01655,Loyal Customers,3,5,3,4,12
+CUST01656,Champions,4,5,5,5,15
+CUST01657,Hibernating,6,1,1,1,3
+CUST01658,Loyal Customers,3,3,4,5,12
+CUST01659,At Risk,1,2,3,4,9
+CUST01660,Loyal Customers,3,5,3,5,13
+CUST01661,Hibernating,6,1,2,1,4
+CUST01662,Loyal Customers,3,4,3,3,10
+CUST01663,Champions,4,4,4,5,13
+CUST01664,Needs Attention,5,3,2,3,8
+CUST01665,Needs Attention,5,3,2,1,6
+CUST01666,Hibernating,6,1,1,1,3
+CUST01667,At Risk,1,2,3,4,9
+CUST01668,At Risk,1,2,4,5,11
+CUST01669,Hibernating,6,2,2,2,6
+CUST01670,Loyal Customers,3,5,3,5,13
+CUST01671,Loyal Customers,3,3,4,5,12
+CUST01672,Loyal Customers,3,4,3,4,11
+CUST01673,Potential Loyalists,2,4,2,2,8
+CUST01674,At Risk,1,2,3,3,8
+CUST01675,At Risk,1,2,3,4,9
+CUST01676,Hibernating,6,2,2,2,6
+CUST01677,Champions,4,5,4,4,13
+CUST01678,Needs Attention,5,3,2,3,8
+CUST01679,Potential Loyalists,2,4,2,3,9
+CUST01680,Potential Loyalists,2,4,2,5,11
+CUST01681,Needs Attention,5,3,2,3,8
+CUST01682,Hibernating,6,1,1,1,3
+CUST01683,Champions,4,4,4,5,13
+CUST01684,Loyal Customers,3,3,4,5,12
+CUST01685,Hibernating,6,1,1,1,3
+CUST01686,At Risk,1,2,2,3,7
+CUST01687,Needs Attention,5,3,2,2,7
+CUST01688,Hibernating,6,2,2,2,6
+CUST01689,Needs Attention,5,3,2,3,8
+CUST01690,Needs Attention,5,3,2,1,6
+CUST01691,Hibernating,6,2,2,2,6
+CUST01692,Hibernating,6,1,2,2,5
+CUST01693,Potential Loyalists,2,4,2,2,8
+CUST01694,Potential Loyalists,2,4,2,3,9
+CUST01695,Loyal Customers,3,3,4,3,10
+CUST01696,Hibernating,6,2,2,2,6
+CUST01697,Loyal Customers,3,3,3,4,10
+CUST01698,Loyal Customers,3,3,4,5,12
+CUST01699,Hibernating,6,1,1,1,3
+CUST01700,Loyal Customers,3,5,3,5,13
+CUST01701,Potential Loyalists,2,5,2,2,9
+CUST01702,Hibernating,6,1,1,1,3
+CUST01703,Loyal Customers,3,5,3,5,13
+CUST01704,Needs Attention,5,3,2,3,8
+CUST01705,Champions,4,4,4,4,12
+CUST01706,Champions,4,5,4,4,13
+CUST01707,Loyal Customers,3,5,3,4,12
+CUST01708,Champions,4,5,4,4,13
+CUST01709,Hibernating,6,1,2,2,5
+CUST01710,Loyal Customers,3,3,4,4,11
+CUST01711,At Risk,1,2,3,4,9
+CUST01712,Potential Loyalists,2,4,2,3,9
+CUST01713,Champions,4,4,5,5,14
+CUST01714,At Risk,1,2,2,3,7
+CUST01715,At Risk,1,2,2,3,7
+CUST01716,Loyal Customers,3,4,3,4,11
+CUST01717,At Risk,1,2,3,5,10
+CUST01718,At Risk,1,2,4,4,10
+CUST01719,Hibernating,6,1,2,2,5
+CUST01720,Champions,4,5,4,4,13
+CUST01721,Potential Loyalists,2,4,2,2,8
+CUST01722,Needs Attention,5,3,2,1,6
+CUST01723,Champions,4,5,4,5,14
+CUST01724,Loyal Customers,3,4,3,4,11
+CUST01725,Potential Loyalists,2,4,2,2,8
+CUST01726,Potential Loyalists,2,4,2,4,10
+CUST01727,Loyal Customers,3,5,3,3,11
+CUST01728,Loyal Customers,3,5,3,4,12
+CUST01729,Loyal Customers,3,5,3,5,13
+CUST01730,At Risk,1,2,3,3,8
+CUST01731,Hibernating,6,2,2,2,6
+CUST01732,Champions,4,5,4,5,14
+CUST01733,At Risk,1,2,4,5,11
+CUST01734,At Risk,1,1,2,4,7
+CUST01735,Loyal Customers,3,3,3,4,10
+CUST01736,Champions,4,5,4,5,14
+CUST01737,Potential Loyalists,2,4,2,2,8
+CUST01738,Champions,4,4,4,5,13
+CUST01739,Needs Attention,5,3,2,1,6
+CUST01740,Potential Loyalists,2,4,2,3,9
+CUST01741,Champions,4,4,4,4,12
+CUST01742,At Risk,1,2,3,3,8
+CUST01743,At Risk,1,2,3,3,8
+CUST01744,At Risk,1,2,2,3,7
+CUST01745,Hibernating,6,1,1,1,3
+CUST01746,Hibernating,6,1,1,1,3
+CUST01747,Potential Loyalists,2,4,2,4,10
+CUST01748,Potential Loyalists,2,4,2,1,7
+CUST01749,Hibernating,6,1,1,1,3
+CUST01750,Hibernating,6,2,2,2,6
+CUST01751,Needs Attention,5,3,2,1,6
+CUST01752,Hibernating,6,1,2,2,5
+CUST01753,Loyal Customers,3,4,3,3,10
+CUST01754,Loyal Customers,3,5,3,3,11
+CUST01755,At Risk,1,1,2,3,6
+CUST01756,At Risk,1,2,3,4,9
+CUST01757,At Risk,1,1,3,4,8
+CUST01758,Needs Attention,5,3,2,2,7
+CUST01759,At Risk,1,2,3,5,10
+CUST01760,Loyal Customers,3,3,4,5,12
+CUST01761,At Risk,1,2,4,5,11
+CUST01762,Needs Attention,5,3,2,5,10
+CUST01763,Potential Loyalists,2,5,2,3,10
+CUST01764,Champions,4,4,4,4,12
+CUST01765,Hibernating,6,1,1,1,3
+CUST01766,Hibernating,6,1,2,2,5
+CUST01767,Hibernating,6,2,2,2,6
+CUST01768,At Risk,1,2,3,4,9
+CUST01769,Loyal Customers,3,3,3,5,11
+CUST01770,Loyal Customers,3,3,4,4,11
+CUST01771,Loyal Customers,3,3,3,4,10
+CUST01772,Hibernating,6,1,1,1,3
+CUST01773,Hibernating,6,1,1,1,3
+CUST01774,At Risk,1,1,4,5,10
+CUST01775,Loyal Customers,3,3,3,3,9
+CUST01776,Needs Attention,5,3,2,3,8
+CUST01777,At Risk,1,1,3,4,8
+CUST01778,Hibernating,6,2,2,2,6
+CUST01779,At Risk,1,1,2,4,7
+CUST01780,Potential Loyalists,2,5,2,5,12
+CUST01781,Hibernating,6,1,1,1,3
+CUST01782,Hibernating,6,2,2,2,6
+CUST01783,Loyal Customers,3,4,3,3,10
+CUST01784,Loyal Customers,3,3,3,4,10
+CUST01785,Potential Loyalists,2,5,2,3,10
+CUST01786,Champions,4,4,5,5,14
+CUST01787,Needs Attention,5,3,2,4,9
+CUST01788,Loyal Customers,3,3,4,5,12
+CUST01789,Needs Attention,5,3,2,1,6
+CUST01790,Champions,4,4,4,4,12
+CUST01791,Needs Attention,5,3,2,1,6
+CUST01792,Potential Loyalists,2,4,2,3,9
+CUST01793,Needs Attention,5,3,2,4,9
+CUST01794,Loyal Customers,3,4,3,4,11
+CUST01795,At Risk,1,2,2,4,8
+CUST01796,Potential Loyalists,2,4,2,2,8
+CUST01797,At Risk,1,2,2,4,8
+CUST01798,At Risk,1,2,2,3,7
+CUST01799,Needs Attention,5,3,2,2,7
+CUST01800,Hibernating,6,2,2,2,6
+CUST01801,Potential Loyalists,2,4,2,1,7
+CUST01802,At Risk,1,2,3,3,8
+CUST01803,At Risk,1,2,3,3,8
+CUST01804,Hibernating,6,1,2,2,5
+CUST01805,Potential Loyalists,2,4,2,2,8
+CUST01806,Needs Attention,5,3,2,2,7
+CUST01807,Loyal Customers,3,3,3,4,10
+CUST01808,Potential Loyalists,2,5,2,1,8
+CUST01809,Loyal Customers,3,4,3,5,12
+CUST01810,Potential Loyalists,2,4,2,2,8
+CUST01811,Loyal Customers,3,3,4,5,12
+CUST01812,Champions,4,4,4,5,13
+CUST01813,Champions,4,4,4,5,13
+CUST01814,Potential Loyalists,2,4,2,2,8
+CUST01815,Potential Loyalists,2,5,2,3,10
+CUST01816,Hibernating,6,1,1,1,3
+CUST01817,Hibernating,6,2,2,2,6
+CUST01818,Hibernating,6,1,2,2,5
+CUST01819,Loyal Customers,3,3,3,4,10
+CUST01820,Champions,4,5,4,5,14
+CUST01821,Champions,4,4,4,5,13
+CUST01822,Loyal Customers,3,3,3,5,11
+CUST01823,Potential Loyalists,2,4,2,3,9
+CUST01824,Hibernating,6,1,1,1,3
+CUST01825,Potential Loyalists,2,5,2,2,9
+CUST01826,Loyal Customers,3,3,4,5,12
+CUST01827,Loyal Customers,3,5,3,4,12
+CUST01828,At Risk,1,2,4,4,10
+CUST01829,At Risk,1,2,4,5,11
+CUST01830,Potential Loyalists,2,4,2,1,7
+CUST01831,Potential Loyalists,2,5,2,2,9
+CUST01832,At Risk,1,2,4,5,11
+CUST01833,Champions,4,4,4,5,13
+CUST01834,Potential Loyalists,2,5,2,3,10
+CUST01835,At Risk,1,2,2,3,7
+CUST01836,At Risk,1,2,3,4,9
+CUST01837,Needs Attention,5,3,2,2,7
+CUST01838,Loyal Customers,3,3,3,3,9
+CUST01839,Champions,4,5,4,4,13
+CUST01840,Hibernating,6,2,2,1,5
+CUST01841,Champions,4,5,4,5,14
+CUST01842,At Risk,1,1,2,4,7
+CUST01843,Potential Loyalists,2,4,2,5,11
+CUST01844,At Risk,1,2,3,5,10
+CUST01845,Hibernating,6,1,2,2,5
+CUST01846,Needs Attention,5,3,2,2,7
+CUST01847,Potential Loyalists,2,5,2,4,11
+CUST01848,Loyal Customers,3,5,3,5,13
+CUST01849,Potential Loyalists,2,4,2,2,8
+CUST01850,Potential Loyalists,2,4,2,2,8
+CUST01851,Hibernating,6,1,1,1,3
+CUST01852,Needs Attention,5,3,2,2,7
+CUST01853,Hibernating,6,1,2,2,5
+CUST01854,At Risk,1,1,3,4,8
+CUST01855,Loyal Customers,3,3,3,5,11
+CUST01856,Hibernating,6,1,1,1,3
+CUST01857,Needs Attention,5,3,2,1,6
+CUST01858,Potential Loyalists,2,5,2,2,9
+CUST01859,Loyal Customers,3,5,3,4,12
+CUST01860,Loyal Customers,3,5,3,3,11
+CUST01861,Loyal Customers,3,5,3,5,13
+CUST01862,Champions,4,5,4,5,14
+CUST01863,Hibernating,6,1,1,1,3
+CUST01864,Hibernating,6,1,1,1,3
+CUST01865,Loyal Customers,3,3,3,4,10
+CUST01866,Needs Attention,5,3,2,2,7
+CUST01867,Potential Loyalists,2,5,2,2,9
+CUST01868,Loyal Customers,3,3,3,4,10
+CUST01869,Loyal Customers,3,3,4,4,11
+CUST01870,At Risk,1,2,3,4,9
+CUST01871,At Risk,1,2,2,4,8
+CUST01872,Potential Loyalists,2,4,2,3,9
+CUST01873,Loyal Customers,3,5,3,4,12
+CUST01874,Potential Loyalists,2,4,2,2,8
+CUST01875,Needs Attention,5,3,2,1,6
+CUST01876,At Risk,1,2,2,3,7
+CUST01877,Loyal Customers,3,4,3,5,12
+CUST01878,Potential Loyalists,2,4,2,1,7
+CUST01879,Potential Loyalists,2,4,2,3,9
+CUST01880,Hibernating,6,1,1,1,3
+CUST01881,Loyal Customers,3,5,3,3,11
+CUST01882,Hibernating,6,1,1,1,3
+CUST01883,Loyal Customers,3,5,3,4,12
+CUST01884,Hibernating,6,1,1,1,3
+CUST01885,Champions,4,5,4,5,14
+CUST01886,Needs Attention,5,3,2,1,6
+CUST01887,At Risk,1,2,3,1,6
+CUST01888,Potential Loyalists,2,4,4,2,10
+CUST01889,Loyal Customers,3,3,3,4,10
+CUST01890,Hibernating,6,1,1,1,3
+CUST01891,Hibernating,6,1,1,1,3
+CUST01892,Potential Loyalists,2,4,2,2,8
+CUST01893,Needs Attention,5,3,2,4,9
+CUST01894,Hibernating,6,1,1,1,3
+CUST01895,Hibernating,6,1,1,1,3
+CUST01896,Needs Attention,5,3,2,1,6
+CUST01897,Loyal Customers,3,4,3,4,11
+CUST01898,Hibernating,6,1,1,1,3
+CUST01899,Loyal Customers,3,3,3,4,10
+CUST01900,Loyal Customers,3,3,4,5,12
+CUST01901,At Risk,1,1,2,3,6
+CUST01902,Needs Attention,5,3,3,2,8
+CUST01903,Loyal Customers,3,5,3,4,12
+CUST01904,Champions,4,4,4,5,13
+CUST01905,Champions,4,5,4,5,14
+CUST01906,Needs Attention,5,3,2,2,7
+CUST01907,Loyal Customers,3,4,3,4,11
+CUST01908,Hibernating,6,1,1,1,3
+CUST01909,Potential Loyalists,2,4,2,3,9
+CUST01910,Hibernating,6,2,2,2,6
+CUST01911,Champions,4,4,4,5,13
+CUST01912,Loyal Customers,3,4,3,3,10
+CUST01913,Needs Attention,5,3,2,2,7
+CUST01914,Loyal Customers,3,3,3,5,11
+CUST01915,Hibernating,6,1,1,1,3
+CUST01916,Loyal Customers,3,5,3,3,11
+CUST01917,Hibernating,6,1,1,1,3
+CUST01918,At Risk,1,1,2,4,7
+CUST01919,Potential Loyalists,2,4,2,1,7
+CUST01920,Hibernating,6,1,1,1,3
+CUST01921,Needs Attention,5,3,2,3,8
+CUST01922,Potential Loyalists,2,4,2,4,10
+CUST01923,Hibernating,6,2,2,2,6
+CUST01924,Needs Attention,5,3,2,1,6
+CUST01925,Potential Loyalists,2,5,2,2,9
+CUST01926,Hibernating,6,2,2,2,6
+CUST01927,At Risk,1,1,2,4,7
+CUST01928,Potential Loyalists,2,5,2,2,9
+CUST01929,Hibernating,6,1,2,2,5
+CUST01930,Loyal Customers,3,5,3,3,11
+CUST01931,Loyal Customers,3,5,3,3,11
+CUST01932,Potential Loyalists,2,5,2,4,11
+CUST01933,Potential Loyalists,2,4,2,2,8
+CUST01934,Potential Loyalists,2,4,2,2,8
+CUST01935,Needs Attention,5,3,2,1,6
+CUST01936,Potential Loyalists,2,4,2,1,7
+CUST01937,Hibernating,6,2,2,2,6
+CUST01938,Champions,4,4,4,4,12
+CUST01939,Champions,4,4,4,5,13
+CUST01940,Loyal Customers,3,5,3,4,12
+CUST01941,Loyal Customers,3,3,4,5,12
+CUST01942,Hibernating,6,1,1,1,3
+CUST01943,Loyal Customers,3,3,4,5,12
+CUST01944,Potential Loyalists,2,5,2,2,9
+CUST01945,Hibernating,6,2,2,2,6
+CUST01946,Hibernating,6,2,2,2,6
+CUST01947,At Risk,1,2,3,3,8
+CUST01948,At Risk,1,1,2,3,6
+CUST01949,At Risk,1,2,2,3,7
+CUST01950,Hibernating,6,2,2,2,6
+CUST01951,Hibernating,6,2,2,2,6
+CUST01952,Hibernating,6,1,1,1,3
+CUST01953,At Risk,1,1,2,3,6
+CUST01954,Loyal Customers,3,3,3,4,10
+CUST01955,Champions,4,4,4,4,12
+CUST01956,Needs Attention,5,3,2,1,6
+CUST01957,Hibernating,6,1,1,1,3
+CUST01958,Hibernating,6,2,2,2,6
+CUST01959,Potential Loyalists,2,5,2,2,9
+CUST01960,Potential Loyalists,2,4,2,3,9
+CUST01961,Needs Attention,5,3,2,4,9
+CUST01962,At Risk,1,2,3,4,9
+CUST01963,At Risk,1,2,2,3,7
+CUST01964,Potential Loyalists,2,5,2,3,10
+CUST01965,Hibernating,6,1,1,1,3
+CUST01966,Needs Attention,5,3,2,3,8
+CUST01967,Loyal Customers,3,4,3,3,10
+CUST01968,Needs Attention,5,3,2,4,9
+CUST01969,Loyal Customers,3,3,3,4,10
+CUST01970,Loyal Customers,3,3,3,4,10
+CUST01971,Loyal Customers,3,5,3,5,13
+CUST01972,Champions,4,5,5,5,15
+CUST01973,At Risk,1,2,2,4,8
+CUST01974,Needs Attention,5,3,2,2,7
+CUST01975,Needs Attention,5,3,2,3,8
+CUST01976,At Risk,1,2,4,5,11
+CUST01977,Loyal Customers,3,3,3,4,10
+CUST01978,Hibernating,6,1,2,2,5
+CUST01979,Needs Attention,5,3,2,2,7
+CUST01980,Loyal Customers,3,5,3,4,12
+CUST01981,Needs Attention,5,3,2,4,9
+CUST01982,Loyal Customers,3,4,3,4,11
+CUST01983,Needs Attention,5,3,2,1,6
+CUST01984,Champions,4,4,5,5,14
+CUST01985,Needs Attention,5,3,2,5,10
+CUST01986,Champions,4,5,4,5,14
+CUST01987,Hibernating,6,2,2,1,5
+CUST01988,Needs Attention,5,3,2,3,8
+CUST01989,Needs Attention,5,3,2,2,7
+CUST01990,Loyal Customers,3,3,4,5,12
+CUST01991,Loyal Customers,3,3,3,4,10
+CUST01992,Needs Attention,5,3,2,4,9
+CUST01993,Champions,4,4,4,5,13
+CUST01994,Needs Attention,5,3,2,3,8
+CUST01995,Hibernating,6,2,2,2,6
+CUST01996,Hibernating,6,1,1,1,3
+CUST01997,Potential Loyalists,2,4,2,3,9
+CUST01998,Champions,4,5,4,5,14
+CUST01999,Loyal Customers,3,3,3,3,9
+CUST02000,Hibernating,6,2,2,2,6
+CUST02001,Potential Loyalists,2,5,2,2,9
+CUST02002,Loyal Customers,3,4,3,5,12
+CUST02003,Hibernating,6,1,2,1,4
+CUST02004,Potential Loyalists,2,5,2,3,10
+CUST02005,Potential Loyalists,2,5,3,2,10
+CUST02006,At Risk,1,2,2,4,8
+CUST02007,At Risk,1,1,3,4,8
+CUST02008,Hibernating,6,1,1,1,3
+CUST02009,Loyal Customers,3,4,3,5,12
+CUST02010,At Risk,1,2,3,5,10
+CUST02011,At Risk,1,2,2,3,7
+CUST02012,Potential Loyalists,2,5,2,2,9
+CUST02013,Potential Loyalists,2,5,2,2,9
+CUST02014,Potential Loyalists,2,4,2,2,8
+CUST02015,Hibernating,6,1,1,1,3
+CUST02016,Potential Loyalists,2,5,2,1,8
+CUST02017,Needs Attention,5,3,2,1,6
+CUST02018,Potential Loyalists,2,4,2,3,9
+CUST02019,Loyal Customers,3,3,4,5,12
+CUST02020,Potential Loyalists,2,4,2,3,9
+CUST02021,Champions,4,5,4,5,14
+CUST02022,Potential Loyalists,2,4,2,1,7
+CUST02023,Potential Loyalists,2,4,2,3,9
+CUST02024,Champions,4,5,5,5,15
+CUST02025,Champions,4,4,4,5,13
+CUST02026,Champions,4,4,4,5,13
+CUST02027,Loyal Customers,3,5,3,5,13
+CUST02028,At Risk,1,2,2,3,7
+CUST02029,Loyal Customers,3,3,3,3,9
+CUST02030,Champions,4,5,4,4,13
+CUST02031,At Risk,1,1,3,3,7
+CUST02032,Hibernating,6,1,1,1,3
+CUST02033,Hibernating,6,2,2,2,6
+CUST02034,Potential Loyalists,2,5,2,2,9
+CUST02035,At Risk,1,2,4,5,11
+CUST02036,Loyal Customers,3,4,3,4,11
+CUST02037,Potential Loyalists,2,5,2,2,9
+CUST02038,Hibernating,6,1,1,1,3
+CUST02039,At Risk,1,1,3,3,7
+CUST02040,Potential Loyalists,2,5,2,2,9
+CUST02041,Loyal Customers,3,5,3,5,13
+CUST02042,Loyal Customers,3,3,4,5,12
+CUST02043,Potential Loyalists,2,5,2,2,9
+CUST02044,Loyal Customers,3,5,3,5,13
+CUST02045,Hibernating,6,2,2,2,6
+CUST02046,Hibernating,6,1,1,1,3
+CUST02047,Loyal Customers,3,3,5,5,13
+CUST02048,Hibernating,6,1,1,1,3
+CUST02049,Loyal Customers,3,3,4,5,12
+CUST02050,Loyal Customers,3,5,3,3,11
+CUST02051,Loyal Customers,3,3,3,5,11
+CUST02052,Loyal Customers,3,3,3,5,11
+CUST02053,Loyal Customers,3,3,3,3,9
+CUST02054,Potential Loyalists,2,4,2,3,9
+CUST02055,Loyal Customers,3,3,4,5,12
+CUST02056,Hibernating,6,1,1,1,3
+CUST02057,Potential Loyalists,2,5,2,4,11
+CUST02058,Potential Loyalists,2,5,2,3,10
+CUST02059,Loyal Customers,3,3,4,5,12
+CUST02060,Loyal Customers,3,4,3,4,11
+CUST02061,At Risk,1,2,4,5,11
+CUST02062,At Risk,1,1,2,3,6
+CUST02063,Champions,4,4,4,5,13
+CUST02064,Loyal Customers,3,3,4,5,12
+CUST02065,Hibernating,6,1,2,2,5
+CUST02066,Needs Attention,5,3,2,2,7
+CUST02067,Loyal Customers,3,3,4,5,12
+CUST02068,Loyal Customers,3,5,3,4,12
+CUST02069,Hibernating,6,1,1,1,3
+CUST02070,Needs Attention,5,3,2,2,7
+CUST02071,Potential Loyalists,2,5,2,3,10
+CUST02072,Champions,4,4,5,5,14
+CUST02073,Potential Loyalists,2,4,2,2,8
+CUST02074,Potential Loyalists,2,4,2,3,9
+CUST02075,Hibernating,6,1,1,1,3
+CUST02076,Hibernating,6,1,1,1,3
+CUST02077,Loyal Customers,3,3,3,3,9
+CUST02078,Champions,4,4,4,4,12
+CUST02079,Champions,4,5,4,4,13
+CUST02080,Hibernating,6,1,2,2,5
+CUST02081,At Risk,1,1,3,4,8
+CUST02082,At Risk,1,2,2,3,7
+CUST02083,Loyal Customers,3,4,3,4,11
+CUST02084,Hibernating,6,1,2,2,5
+CUST02085,Potential Loyalists,2,5,2,2,9
+CUST02086,Loyal Customers,3,4,3,4,11
+CUST02087,Potential Loyalists,2,5,2,2,9
+CUST02088,Loyal Customers,3,4,3,4,11
+CUST02089,Potential Loyalists,2,5,2,2,9
+CUST02090,Needs Attention,5,3,2,2,7
+CUST02091,Potential Loyalists,2,5,2,3,10
+CUST02092,At Risk,1,1,2,3,6
+CUST02093,Loyal Customers,3,5,3,4,12
+CUST02094,At Risk,1,2,3,3,8
+CUST02095,At Risk,1,1,2,3,6
+CUST02096,Loyal Customers,3,5,3,4,12
+CUST02097,Needs Attention,5,3,2,1,6
+CUST02098,Hibernating,6,1,1,1,3
+CUST02099,At Risk,1,2,2,3,7
+CUST02100,Potential Loyalists,2,4,2,2,8
+CUST02101,Champions,4,5,5,5,15
+CUST02102,Loyal Customers,3,5,3,3,11
+CUST02103,Loyal Customers,3,4,3,3,10
+CUST02104,Potential Loyalists,2,5,2,2,9
+CUST02105,Champions,4,5,4,5,14
+CUST02106,Loyal Customers,3,4,3,4,11
+CUST02107,At Risk,1,2,3,4,9
+CUST02108,Champions,4,5,4,5,14
+CUST02109,Loyal Customers,3,4,3,5,12
+CUST02110,Loyal Customers,3,4,3,4,11
+CUST02111,Hibernating,6,1,1,1,3
+CUST02112,Hibernating,6,1,1,1,3
+CUST02113,Hibernating,6,1,1,1,3
+CUST02114,Hibernating,6,2,2,1,5
+CUST02115,Hibernating,6,1,1,1,3
+CUST02116,Hibernating,6,1,2,2,5
+CUST02117,At Risk,1,2,2,4,8
+CUST02118,At Risk,1,2,2,4,8
+CUST02119,Champions,4,4,4,5,13
+CUST02120,Champions,4,4,4,5,13
+CUST02121,Potential Loyalists,2,4,2,2,8
+CUST02122,Hibernating,6,1,1,1,3
+CUST02123,Hibernating,6,2,2,2,6
+CUST02124,Loyal Customers,3,4,3,3,10
+CUST02125,Hibernating,6,2,2,1,5
+CUST02126,Hibernating,6,1,1,1,3
+CUST02127,Hibernating,6,1,1,1,3
+CUST02128,Potential Loyalists,2,4,2,4,10
+CUST02129,At Risk,1,2,2,3,7
+CUST02130,Loyal Customers,3,3,3,3,9
+CUST02131,At Risk,1,2,4,4,10
+CUST02132,Potential Loyalists,2,5,2,2,9
+CUST02133,Champions,4,4,4,5,13
+CUST02134,Hibernating,6,1,1,1,3
+CUST02135,Needs Attention,5,3,2,3,8
+CUST02136,Needs Attention,5,3,2,4,9
+CUST02137,Loyal Customers,3,3,3,4,10
+CUST02138,Hibernating,6,1,1,1,3
+CUST02139,Potential Loyalists,2,4,2,2,8
+CUST02140,Potential Loyalists,2,4,2,2,8
+CUST02141,Loyal Customers,3,3,3,5,11
+CUST02142,Needs Attention,5,3,2,4,9
+CUST02143,Needs Attention,5,3,2,3,8
+CUST02144,At Risk,1,1,2,3,6
+CUST02145,At Risk,1,2,2,4,8
+CUST02146,At Risk,1,2,2,3,7
+CUST02147,Hibernating,6,2,2,1,5
+CUST02148,Hibernating,6,1,2,2,5
+CUST02149,Loyal Customers,3,3,3,5,11
+CUST02150,Hibernating,6,1,1,1,3
+CUST02151,Loyal Customers,3,4,3,5,12
+CUST02152,Hibernating,6,2,2,1,5
+CUST02153,Loyal Customers,3,3,3,3,9
+CUST02154,At Risk,1,2,4,5,11
+CUST02155,Hibernating,6,1,1,1,3
+CUST02156,Hibernating,6,1,1,1,3
+CUST02157,Needs Attention,5,3,2,3,8
+CUST02158,At Risk,1,2,4,4,10
+CUST02159,Champions,4,5,4,4,13
+CUST02160,Potential Loyalists,2,5,2,2,9
+CUST02161,Hibernating,6,1,2,2,5
+CUST02162,Champions,4,5,5,5,15
+CUST02163,At Risk,1,2,3,4,9
+CUST02164,Needs Attention,5,3,2,2,7
+CUST02165,Potential Loyalists,2,4,3,2,9
+CUST02166,Potential Loyalists,2,5,2,3,10
+CUST02167,Loyal Customers,3,4,3,4,11
+CUST02168,At Risk,1,1,2,3,6
+CUST02169,At Risk,1,2,4,5,11
+CUST02170,At Risk,1,2,3,4,9
+CUST02171,At Risk,1,2,2,3,7
+CUST02172,Champions,4,5,4,5,14
+CUST02173,Potential Loyalists,2,5,2,5,12
+CUST02174,At Risk,1,2,3,3,8
+CUST02175,Champions,4,4,4,4,12
+CUST02176,At Risk,1,2,2,3,7
+CUST02177,Hibernating,6,1,1,1,3
+CUST02178,Loyal Customers,3,4,3,3,10
+CUST02179,Potential Loyalists,2,5,2,2,9
+CUST02180,Hibernating,6,2,2,2,6
+CUST02181,Potential Loyalists,2,5,2,3,10
+CUST02182,Loyal Customers,3,3,3,4,10
+CUST02183,Loyal Customers,3,3,3,5,11
+CUST02184,At Risk,1,2,3,4,9
+CUST02185,Hibernating,6,1,1,1,3
+CUST02186,At Risk,1,2,3,4,9
+CUST02187,Hibernating,6,1,1,1,3
+CUST02188,Hibernating,6,2,2,2,6
+CUST02189,At Risk,1,2,4,5,11
+CUST02190,At Risk,1,2,3,3,8
+CUST02191,Hibernating,6,1,2,2,5
+CUST02192,Potential Loyalists,2,5,2,3,10
+CUST02193,Potential Loyalists,2,5,2,2,9
+CUST02194,Loyal Customers,3,3,3,5,11
+CUST02195,At Risk,1,2,5,5,12
+CUST02196,Hibernating,6,1,2,2,5
+CUST02197,Potential Loyalists,2,4,2,1,7
+CUST02198,At Risk,1,2,2,3,7
+CUST02199,At Risk,1,2,4,5,11
+CUST02200,Loyal Customers,3,5,4,3,12
+CUST02201,Hibernating,6,2,2,2,6
+CUST02202,Champions,4,5,4,4,13
+CUST02203,Loyal Customers,3,3,3,3,9
+CUST02204,Hibernating,6,1,2,2,5
+CUST02205,Hibernating,6,1,1,1,3
+CUST02206,Hibernating,6,1,1,1,3
+CUST02207,Champions,4,4,5,5,14
+CUST02208,At Risk,1,2,2,3,7
+CUST02209,Loyal Customers,3,4,3,3,10
+CUST02210,At Risk,1,1,2,4,7
+CUST02211,Potential Loyalists,2,5,2,4,11
+CUST02212,Needs Attention,5,3,2,2,7
+CUST02213,Champions,4,4,4,5,13
+CUST02214,Hibernating,6,1,1,1,3
+CUST02215,Potential Loyalists,2,4,2,1,7
+CUST02216,At Risk,1,2,2,4,8
+CUST02217,Potential Loyalists,2,4,2,2,8
+CUST02218,Champions,4,4,4,5,13
+CUST02219,Potential Loyalists,2,4,2,2,8
+CUST02220,Needs Attention,5,3,2,1,6
+CUST02221,Potential Loyalists,2,4,2,2,8
+CUST02222,At Risk,1,2,2,3,7
+CUST02223,Potential Loyalists,2,5,2,3,10
+CUST02224,Hibernating,6,1,1,1,3
+CUST02225,Hibernating,6,1,1,1,3
+CUST02226,Loyal Customers,3,3,4,4,11
+CUST02227,Potential Loyalists,2,4,2,3,9
+CUST02228,At Risk,1,2,3,4,9
+CUST02229,Loyal Customers,3,3,3,4,10
+CUST02230,Potential Loyalists,2,4,2,2,8
+CUST02231,Needs Attention,5,3,2,2,7
+CUST02232,Potential Loyalists,2,5,2,1,8
+CUST02233,Hibernating,6,2,2,2,6
+CUST02234,At Risk,1,1,2,3,6
+CUST02235,Needs Attention,5,3,2,1,6
+CUST02236,At Risk,1,2,2,3,7
+CUST02237,Loyal Customers,3,4,3,3,10
+CUST02238,Loyal Customers,3,3,5,5,13
+CUST02239,Potential Loyalists,2,4,2,2,8
+CUST02240,Potential Loyalists,2,5,2,5,12
+CUST02241,At Risk,1,2,4,5,11
+CUST02242,Hibernating,6,2,2,2,6
+CUST02243,At Risk,1,2,3,4,9
+CUST02244,Champions,4,5,4,4,13
+CUST02245,Loyal Customers,3,3,3,5,11
+CUST02246,At Risk,1,1,4,5,10
+CUST02247,Needs Attention,5,3,2,2,7
+CUST02248,At Risk,1,2,2,4,8
+CUST02249,Needs Attention,5,3,2,2,7
+CUST02250,Loyal Customers,3,5,3,3,11
+CUST02251,Hibernating,6,1,1,1,3
+CUST02252,Needs Attention,5,3,2,3,8
+CUST02253,Loyal Customers,3,3,5,5,13
+CUST02254,Hibernating,6,2,2,1,5
+CUST02255,Potential Loyalists,2,5,2,2,9
+CUST02256,Potential Loyalists,2,4,2,2,8
+CUST02257,Needs Attention,5,3,2,3,8
+CUST02258,Hibernating,6,1,1,1,3
+CUST02259,Loyal Customers,3,4,3,3,10
+CUST02260,Needs Attention,5,3,2,2,7
+CUST02261,Loyal Customers,3,3,4,5,12
+CUST02262,At Risk,1,2,3,4,9
+CUST02263,Hibernating,6,2,2,2,6
+CUST02264,Loyal Customers,3,4,3,4,11
+CUST02265,Potential Loyalists,2,4,2,1,7
+CUST02266,Potential Loyalists,2,5,2,2,9
+CUST02267,Hibernating,6,1,1,1,3
+CUST02268,Hibernating,6,1,2,2,5
+CUST02269,Champions,4,5,4,5,14
+CUST02270,At Risk,1,2,3,3,8
+CUST02271,At Risk,1,2,2,3,7
+CUST02272,Loyal Customers,3,3,4,5,12
+CUST02273,At Risk,1,1,2,3,6
+CUST02274,Needs Attention,5,3,2,2,7
+CUST02275,Potential Loyalists,2,4,2,1,7
+CUST02276,Hibernating,6,1,1,1,3
+CUST02277,Hibernating,6,1,1,1,3
+CUST02278,Hibernating,6,2,2,1,5
+CUST02279,Champions,4,4,4,5,13
+CUST02280,At Risk,1,2,2,4,8
+CUST02281,At Risk,1,2,3,4,9
+CUST02282,Potential Loyalists,2,5,2,1,8
+CUST02283,Hibernating,6,2,2,1,5
+CUST02284,Champions,4,4,4,4,12
+CUST02285,Potential Loyalists,2,5,2,3,10
+CUST02286,Hibernating,6,1,1,1,3
+CUST02287,At Risk,1,2,3,5,10
+CUST02288,Loyal Customers,3,3,4,5,12
+CUST02289,At Risk,1,2,4,5,11
+CUST02290,Loyal Customers,3,3,4,5,12
+CUST02291,Hibernating,6,1,1,1,3
+CUST02292,Loyal Customers,3,5,3,3,11
+CUST02293,Hibernating,6,1,1,1,3
+CUST02294,Loyal Customers,3,5,3,3,11
+CUST02295,Loyal Customers,3,4,3,3,10
+CUST02296,Needs Attention,5,3,2,2,7
+CUST02297,Potential Loyalists,2,4,2,2,8
+CUST02298,At Risk,1,2,4,5,11
+CUST02299,At Risk,1,2,2,3,7
+CUST02300,At Risk,1,2,4,5,11
+CUST02301,At Risk,1,2,4,4,10
+CUST02302,Needs Attention,5,3,2,2,7
+CUST02303,Potential Loyalists,2,4,2,2,8
+CUST02304,Potential Loyalists,2,4,2,2,8
+CUST02305,Champions,4,4,4,5,13
+CUST02306,Loyal Customers,3,3,3,5,11
+CUST02307,Potential Loyalists,2,4,2,2,8
+CUST02308,Hibernating,6,2,2,2,6
+CUST02309,Hibernating,6,1,1,1,3
+CUST02310,Loyal Customers,3,4,3,4,11
+CUST02311,Hibernating,6,1,1,1,3
+CUST02312,Hibernating,6,1,1,1,3
+CUST02313,Hibernating,6,1,2,2,5
+CUST02314,Potential Loyalists,2,5,2,2,9
+CUST02315,Loyal Customers,3,4,3,3,10
+CUST02316,Potential Loyalists,2,5,2,2,9
+CUST02317,Champions,4,5,5,5,15
+CUST02318,Needs Attention,5,3,2,2,7
+CUST02319,Potential Loyalists,2,4,2,3,9
+CUST02320,At Risk,1,2,3,2,7
+CUST02321,At Risk,1,1,3,3,7
+CUST02322,Loyal Customers,3,4,3,4,11
+CUST02323,Needs Attention,5,3,2,2,7
+CUST02324,Hibernating,6,1,2,1,4
+CUST02325,Champions,4,5,4,4,13
+CUST02326,Potential Loyalists,2,5,2,3,10
+CUST02327,Hibernating,6,1,2,1,4
+CUST02328,Potential Loyalists,2,5,2,2,9
+CUST02329,At Risk,1,2,4,5,11
+CUST02330,Loyal Customers,3,3,4,5,12
+CUST02331,Loyal Customers,3,5,3,5,13
+CUST02332,Loyal Customers,3,5,3,5,13
+CUST02333,Potential Loyalists,2,5,2,2,9
+CUST02334,Potential Loyalists,2,5,2,4,11
+CUST02335,Loyal Customers,3,4,3,3,10
+CUST02336,Loyal Customers,3,3,3,3,9
+CUST02337,Potential Loyalists,2,5,2,5,12
+CUST02338,Loyal Customers,3,4,3,4,11
+CUST02339,Champions,4,4,5,5,14
+CUST02340,Champions,4,4,5,5,14
+CUST02341,Potential Loyalists,2,4,2,2,8
+CUST02342,Loyal Customers,3,3,3,4,10
+CUST02343,Potential Loyalists,2,4,2,3,9
+CUST02344,Potential Loyalists,2,5,2,2,9
+CUST02345,Potential Loyalists,2,4,2,4,10
+CUST02346,Champions,4,5,4,4,13
+CUST02347,At Risk,1,2,2,3,7
+CUST02348,At Risk,1,2,2,5,9
+CUST02349,Loyal Customers,3,3,4,4,11
+CUST02350,At Risk,1,2,4,5,11
+CUST02351,Hibernating,6,1,1,1,3
+CUST02352,Loyal Customers,3,5,3,4,12
+CUST02353,At Risk,1,1,2,3,6
+CUST02354,Potential Loyalists,2,5,2,2,9
+CUST02355,Potential Loyalists,2,5,2,1,8
+CUST02356,Loyal Customers,3,4,3,3,10
+CUST02357,Champions,4,4,4,5,13
+CUST02358,Needs Attention,5,3,2,4,9
+CUST02359,Loyal Customers,3,4,3,4,11
+CUST02360,Loyal Customers,3,4,3,3,10
+CUST02361,Potential Loyalists,2,4,2,2,8
+CUST02362,Loyal Customers,3,5,3,5,13
+CUST02363,Loyal Customers,3,5,3,5,13
+CUST02364,At Risk,1,1,3,3,7
+CUST02365,Champions,4,5,5,5,15
+CUST02366,Hibernating,6,1,1,1,3
+CUST02367,Loyal Customers,3,3,4,5,12
+CUST02368,At Risk,1,1,2,3,6
+CUST02369,Potential Loyalists,2,4,2,2,8
+CUST02370,Loyal Customers,3,4,3,4,11
+CUST02371,Champions,4,4,4,4,12
+CUST02372,Potential Loyalists,2,4,2,3,9
+CUST02373,Loyal Customers,3,5,3,4,12
+CUST02374,Needs Attention,5,3,2,1,6
+CUST02375,Needs Attention,5,3,2,2,7
+CUST02376,Loyal Customers,3,5,3,3,11
+CUST02377,Loyal Customers,3,4,3,5,12
+CUST02378,Loyal Customers,3,5,3,3,11
+CUST02379,Hibernating,6,2,2,2,6
+CUST02380,Hibernating,6,2,2,1,5
+CUST02381,Potential Loyalists,2,5,2,3,10
+CUST02382,At Risk,1,2,3,4,9
+CUST02383,Hibernating,6,2,2,2,6
+CUST02384,Loyal Customers,3,3,3,4,10
+CUST02385,Potential Loyalists,2,4,2,3,9
+CUST02386,Loyal Customers,3,5,3,4,12
+CUST02387,Hibernating,6,2,2,1,5
+CUST02388,Needs Attention,5,3,2,5,10
+CUST02389,At Risk,1,2,3,3,8
+CUST02390,Hibernating,6,1,1,1,3
+CUST02391,Needs Attention,5,3,2,3,8
+CUST02392,At Risk,1,2,3,4,9
+CUST02393,Hibernating,6,2,2,2,6
+CUST02394,Champions,4,4,4,5,13
+CUST02395,Hibernating,6,1,1,1,3
+CUST02396,Hibernating,6,2,2,2,6
+CUST02397,Needs Attention,5,3,2,2,7
+CUST02398,Loyal Customers,3,3,3,3,9
+CUST02399,Hibernating,6,1,1,1,3
+CUST02400,Hibernating,6,2,2,2,6
