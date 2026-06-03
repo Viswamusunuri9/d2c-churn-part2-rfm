@@ -23,6 +23,16 @@ Rather than applying blanket discounts across the entire customer base, the comp
 
 ---
 
+### Key Results
+
+- 2,400 customers segmented using RFM analysis.
+- 398 customers identified as At Risk and prioritized for retention.
+- 260 customers classified as Champions.
+- Six actionable customer segments created.
+- Budget-constrained prioritization framework developed.
+
+---
+
 ## Repository Structure
 
 ```text
